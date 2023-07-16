@@ -72,7 +72,7 @@
 ### Padawan Algorithm
 ### Bitmask DP
 #### Enumerating subset
-#### Hungarian Algorithm
+#### Bipartite Graph
 #### TSP
 ### Catalan
 ### Permutation
@@ -88,8 +88,56 @@
 ## Divide and Conquer
 
 ## String
+### Abbreviation
+### Rolling Hash
+### KMP
+### Manacher
 
+## Union Find
+### Union in an Order
+### Prime Factors
+### MST
 
+## Recursion 
+### Evaluate Expressions
+### Min-Max Strategy
+### Digit counting & finding
 
+## Graph
+### Floyd
+### Hungarian Algorithm
 
+## Math
+### Distance 
+### Geometry
+### Random Pick
+### Combinatorics
+### Numerical Theory
 
+## Greedy
+### Lexicographical Sequence
+### DI Sequence
+### Smear Top Elements
+### LIS
+### Two-pass distribution
+### Three pass
+### State Machine
+### Sort
+### Indexing Sort
+### Parenthesis 
+### Intervals
+### Constructive Problems
+
+## Simulation
+
+## Others
+### Collision
+### Conclusion Transfer
+### Count Subarray by Element
+### Diff Array
+### 2D Diff
+### Enumeration
+### Presum
+### 2D Presum
+### Quickselect
+### Digital Computing
