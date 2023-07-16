@@ -1,5 +1,7 @@
 # LeetCode
 
+This repository contains the solutions and explanations to the algorithm problems on LeetCode. All are written in JAVA and implemented by myself.
+
 ## Two Pointers***
 ### Sliding Window
 ### Sliding Window : Distinct Characters
