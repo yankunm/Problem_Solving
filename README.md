@@ -1,22 +1,22 @@
 # LeetCode
 
-## Two Pointers
+## Two Pointers***
 ### Sliding Window
 ### Sliding Window : Distinct Characters
 ### Two Pointers for two sequences
 
-## Binary Search
+## Binary Search***
 ### Binary Processing
 ### Binary Search by Value
 #### Find K-th Element
 
-## Hash Map
+## Hash Map***
 ### Hash + Prefix
 
-## Heap
+## Heap*
 ### Maintain Intervals
 
-## Tree
+## Tree***
 ### Path in a Tree
 ### Serialization & Hashing
 ### Tree & Sequence
@@ -26,33 +26,37 @@
 ### Segment Tree
 ### Binary Index Tree
 
-## Design
+## DFS***
+### Search in an array
+### Memorization
+### Hidden Matrix
+
+## BFS***
+### Multi State
+### Topological sort
+### Dijkstra (BFS + PQ)
+### Dijkstra (for Bipartite Graph)
+
+## Design**
 ### Linked List
 
-## Stack
+## Stack**
 ### Monotonic Stack: next greater / smaller
 ### Monotonic Stack: other usages
 ### form smallest sequence
 ### parse expressio 
 
-## Deque
+## Deque**
 
-## Priority Queue
+## Priority Queue*
 ### Greedy 
 ### Dual PQ
 ### Sort + PQ
 ### Arrangment with Stride
 
-## DFS
-### Search in an array
-### Memorization
-### Hidden Matrix
 
-## BFS
-### Multi State
-### Topological sort
-### Dijkstra (BFS + PQ)
-### Dijkstra (for Bipartite Graph)
+
+
 
 ## Trie
 ### Trie and XOR
