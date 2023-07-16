@@ -14,7 +14,7 @@
 ### Hash + Prefix
 
 ## Tree***
-[270. Closest Binary Search Tree Value]https://github.com/yankunm/LeetCode/tree/main/Tree/270.%20Closest%20Binary%20Search%20Tree%20Value (Easy)
+[270. Closest Binary Search Tree Value](https://github.com/yankunm/LeetCode/tree/main/Tree/270.%20Closest%20Binary%20Search%20Tree%20Value) (Easy)
 
 ### Path in a Tree
 ### Serialization & Hashing
