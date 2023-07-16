@@ -13,9 +13,6 @@
 ## Hash Map***
 ### Hash + Prefix
 
-## Heap*
-### Maintain Intervals
-
 ## Tree***
 ### Path in a Tree
 ### Serialization & Hashing
@@ -37,6 +34,35 @@
 ### Dijkstra (BFS + PQ)
 ### Dijkstra (for Bipartite Graph)
 
+## Linked List***
+### Reverse Linked List
+
+## Divide and Conquer***
+
+## Recursion***
+### Evaluate Expressions
+### Min-Max Strategy
+### Digit counting & finding
+
+## String***
+### Abbreviation
+### Rolling Hash
+### KMP
+### Manacher
+
+## Heap**
+### Maintain Intervals
+
+## Graph**
+### Floyd
+### Hungarian Algorithm
+
+## Priority Queue**
+### Greedy 
+### Dual PQ
+### Sort + PQ
+### Arrangment with Stride
+
 ## Design**
 ### Linked List
 
@@ -44,27 +70,11 @@
 ### Monotonic Stack: next greater / smaller
 ### Monotonic Stack: other usages
 ### form smallest sequence
-### parse expressio 
+### parse expression
 
 ## Deque**
 
-## Priority Queue*
-### Greedy 
-### Dual PQ
-### Sort + PQ
-### Arrangment with Stride
-
-
-
-
-
-## Trie
-### Trie and XOR
-
-## Linked List
-### Reverse Linked List
-
-## Dynamic Programming
+## Dynamic Programming**
 ### Basic Form I
 ### Basic Form II
 ### Maze Form
@@ -83,42 +93,27 @@
 ### Infer future from current
 ### Maximum Subarray
 
+## Trie**
+### Trie and XOR
 
-## Bit Manipulation
+## Bit Manipulation**
 ### XOR
 ### Bit Mask
 #### Meet in the middle
 
-## Divide and Conquer
-
-## String
-### Abbreviation
-### Rolling Hash
-### KMP
-### Manacher
-
-## Union Find
+## Union Find*
 ### Union in an Order
 ### Prime Factors
 ### MST
 
-## Recursion 
-### Evaluate Expressions
-### Min-Max Strategy
-### Digit counting & finding
-
-## Graph
-### Floyd
-### Hungarian Algorithm
-
-## Math
+## Math*
 ### Distance 
 ### Geometry
 ### Random Pick
 ### Combinatorics
 ### Numerical Theory
 
-## Greedy
+## Greedy*
 ### Lexicographical Sequence
 ### DI Sequence
 ### Smear Top Elements
@@ -132,9 +127,9 @@
 ### Intervals
 ### Constructive Problems
 
-## Simulation
+## Simulation*
 
-## Others
+## Others*
 ### Collision
 ### Conclusion Transfer
 ### Count Subarray by Element
