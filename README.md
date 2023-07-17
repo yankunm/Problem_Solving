@@ -16,6 +16,8 @@
 ## Tree***
 [270. Closest Binary Search Tree Value](https://github.com/yankunm/LeetCode/tree/main/Tree/270.%20Closest%20Binary%20Search%20Tree%20Value) (Easy) <br>
 [110. Balanced Binary Tree](https://github.com/yankunm/LeetCode/tree/main/Tree/110.BalancedBinaryTree) (Easy) <br>
+[222. Count Complete Tree Nodes](https://github.com/yankunm/LeetCode/tree/main/Tree/222.CountCompleteTreeNodes) (Medium) <br>
+[114. Flatten Binary Tree to Linked List]() (Medium) <br>
 
 ### Path in a Tree
 ### Serialization & Hashing
