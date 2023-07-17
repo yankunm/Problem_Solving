@@ -1,6 +1,6 @@
 # LeetCode
 
-![image](https://github.com/yankunm/LeetCode/assets/91627484/fddd57cb-a402-4287-87c5-544aab91ece5)
+![image](https://github.com/yankunm/LeetCode/assets/91627484/2228c6a0-fe50-4149-ab2b-71960133983b)
 
 ## Two Pointers***
 ### Sliding Window
