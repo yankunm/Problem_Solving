@@ -49,15 +49,14 @@ For all nodes N: <br>
 1. All nodes in its left subtree are smaller <br>
 2. All nodes in its right subtree are bigger
 
-Search: <br>
-1. If higher go right <br>
-2. If lower go left <br>
-3. If equal return
+## Total Order
 
-Insertion: <br>
-1. If lower go left <br>
-2. If higher go right <br>
-3. If null then insert
+For a BST, the Set *S* must be totally ordered under a *binary relation r*. All elements of S exhibit antisymmetry, transitivity, and totality.
+
+**Antisymmetry**: x <= y AND y <= x IMPLIES x=y
+**Transitivity**: x<y AND y<z IMPLIES x<z
+**Totality**: In the set, there's only either x<y \OR x>y \OR x = y
+
 
 **The only reason why we would use binary search trees over hash tables is that it maintains order**.
 
@@ -67,16 +66,33 @@ Sorted Array: \[___, N, successor\]
 
 *Successor(N)*:
 1. if *N has right child* then *return min(right subtree of N)*
-2. else *k = backtrack only "right" branches farthest* and *return parent of k*
+2. else *k = Follow only "right" branches backward* and *return parent of k*
 
 ### Predecessor of node N
 
 Sorted Array: \[predecessor, N, ___\]
 
+*Predecessor(N)*:
+1. if *N has left child* then *return max(left subtree of N)*
+2. else *k = Follow only "left" braches backward* and *return parent of k*
 
+### Algorithms
 
+Search(N): <br>
+1. If N is higher go right <br>
+2. If N is lower go left <br>
+3. If N is equal return
 
+Insert(N): <br>
+1. If N is lower go left <br>
+2. If N is higher go right <br>
+3. If null then insert N
 
+Delete(N): <br>
+1. Search(N)
+2. If *N is leaf* then *set parent ptr to null*
+3. If *N has one child* then *set parent ptr to point to N.child*
+4. If *N has two children* then *replace N with successor*
 
 
 ## Evaluating Basic Arithmetic Expressions
@@ -99,10 +115,6 @@ Compute(): <br>
 2. pop() twice from operand stack and store them as *arg1* and *arg2* <br>
 3. evaluate *arg1* *op* *arg2* and push() result onto operand stack <br>
 4. Repeat steps 1-3 until operator stack is empty
-
-
-
-
 
 
 
