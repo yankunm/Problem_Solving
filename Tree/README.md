@@ -7,3 +7,5 @@ Trees are the most fundamental data structure in Computer Science. We will study
 ## Definition
 
 tree ::== nil | \<val\>\<tree\>\<tree\>...\<tree\>
+
+A tree could be empty, or it could have a root node **r** with non-empty subtrees T_1
