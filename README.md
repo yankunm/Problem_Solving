@@ -18,10 +18,11 @@
 ## Tree***
 [270. Closest Binary Search Tree Value](https://github.com/yankunm/LeetCode/tree/main/Tree/270.%20Closest%20Binary%20Search%20Tree%20Value) (Easy) <br>
 [110. Balanced Binary Tree](https://github.com/yankunm/LeetCode/tree/main/Tree/110.BalancedBinaryTree) (Easy) <br>
-[222. Count Complete Tree Nodes](https://github.com/yankunm/LeetCode/tree/main/Tree/222.CountCompleteTreeNodes) (Medium) <br>
-[114. Flatten Binary Tree to Linked List](https://github.com/yankunm/LeetCode/tree/main/Tree/114.FlattenBinaryTreetoLinkedList) (Medium) <br>
 [257. Binary Tree Paths](https://github.com/yankunm/LeetCode/tree/main/Tree/257.BinaryTreePaths) (Easy) <br>
 [938. Range Sum of BST](https://github.com/yankunm/LeetCode/tree/main/Tree/938.RangeSumOfBST) (Easy) <br>
+[222. Count Complete Tree Nodes](https://github.com/yankunm/LeetCode/tree/main/Tree/222.CountCompleteTreeNodes) (Medium) <br>
+[114. Flatten Binary Tree to Linked List](https://github.com/yankunm/LeetCode/tree/main/Tree/114.FlattenBinaryTreetoLinkedList) (Medium) <br>
+
 
 
 ### Path in a Tree
