@@ -8,7 +8,7 @@ Trees are the most fundamental data structure in Computer Science. We will study
 
 First person to study about trees - Arthur Cayley (British Mathematician, 1857) <br>
 [AVL trees: first self-balancing BST](https://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=dan&paperid=26964&option_lang=eng) - Georgy Adelson-Velsky, Evgenii Landis (Soviet Computer Scientists, 1962) <br>
-[2-3-4 trees](https://link.springer.com/article/10.1007/BF00289509) - Rudolf Bayer (German Computer Scientist, 1972)
+[2-3-4 trees](https://link.springer.com/article/10.1007/BF00289509) - Rudolf Bayer (German Computer Scientist, 1972) <br>
 [Red-Black Trees](https://ieeexplore.ieee.org/abstract/document/4567957) - Leonidas J. Guibas, Robert Sedgewick (American Computer Scientists, 1978)
 
 
