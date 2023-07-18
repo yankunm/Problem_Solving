@@ -65,6 +65,10 @@ Insertion: <br>
 
 Sorted Array: \[___, N, successor\]
 
+*Successor(N)*:
+1. if *N has right child* then *return min(right subtree of N)*
+2. else *k = backtrack only "right" branches farthest* and *return parent of k*
+
 ### Predecessor of node N
 
 Sorted Array: \[predecessor, N, ___\]
