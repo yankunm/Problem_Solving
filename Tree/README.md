@@ -6,4 +6,4 @@ Trees are the most fundamental data structure in Computer Science. We will study
 
 ## Definition
 
-tree ::== nil | \<val\><tree><tree>...<tree>
+tree ::== nil | \<val\>\<tree\>\<tree\>...\<tree\>
