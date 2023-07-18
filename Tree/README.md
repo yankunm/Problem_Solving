@@ -34,6 +34,23 @@ If every level except the last is full, and all leaf nodes at the last level are
 
 We use the term "traverse" to distinguish it from the linear-nature of "iterate".
 
+We can go "left", "right", or "up" (to the parent).
+
 **Preorder** - work on current node, then recurse to left, then recurse to right <br>
 **Postorder** - Perform work at current node AFTER preforming it on left and right children
+**Inorder** - From left to right
+
+## Evaluating Basic Arithmetic Expressions
+
++, -, *, / are binary operators. Each takes two inputs and give one output.
+
+**Infix Expression** - \<arg1\> \<operator\> \<arg2\> (1 + 1)
+
+To represent (a*(b + c)) + (((d - e)/f) * g), we should use a binary tree.
+
+If we traverse the tree INORDER, we get the INFIX expression.
+
+
+
+
 
