@@ -37,8 +37,43 @@ We use the term "traverse" to distinguish it from the linear-nature of "iterate"
 We can go "left", "right", or "up" (to the parent).
 
 **Preorder** - work on current node, then recurse to left, then recurse to right <br>
-**Postorder** - Perform work at current node AFTER preforming it on left and right children
+**Postorder** - Perform work at current node AFTER preforming it on left and right children <br>
 **Inorder** - From left to right
+
+## Binary Search Trees
+
+BSTs are used for sublinear O(log n) searching, insertion, and deletion.
+
+*Two Properties for BST:* <br>
+For all nodes N: <br>
+1. All nodes in its left subtree are smaller <br>
+2. All nodes in its right subtree are bigger
+
+Search: <br>
+1. If higher go right <br>
+2. If lower go left <br>
+3. If equal return
+
+Insertion: <br>
+1. If lower go left <br>
+2. If higher go right <br>
+3. If null then insert
+
+**The only reason why we would use binary search trees over hash tables is that it maintains order**.
+
+### Sucessor of node N
+
+Sorted Array: \[___, N, successor\]
+
+### Predecessor of node N
+
+Sorted Array: \[predecessor, N, ___\]
+
+
+
+
+
+
 
 ## Evaluating Basic Arithmetic Expressions
 
@@ -48,7 +83,22 @@ We can go "left", "right", or "up" (to the parent).
 
 To represent (a*(b + c)) + (((d - e)/f) * g), we should use a binary tree.
 
-If we traverse the tree INORDER, we get the INFIX expression.
+If we traverse the tree INORDER, we get the INFIX expression. 
+
+Infix notation is easier for humans, but is ambiguous sometimes (require PEMDAS and parentheses to know order). <br>
+Prefix and postfix notations are easier for computers, because they do not require *precedence* (PEMDAS) or *parentheses* to evaluate.
+
+To compute an expression, we can use two stacks, an *operand* stack and an *operator* stack. 
+
+Compute(): <br>
+1. pop() from operator stack and store it as *op* <br>
+2. pop() twice from operand stack and store them as *arg1* and *arg2* <br>
+3. evaluate *arg1* *op* *arg2* and push() result onto operand stack <br>
+4. Repeat steps 1-3 until operator stack is empty
+
+
+
+
 
 
 
