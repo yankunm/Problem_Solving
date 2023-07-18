@@ -19,21 +19,21 @@ tree ::== nil | \<val\>\<tree\>\<tree\>...\<tree\>
 
 A tree could be empty, or it could have a root node **r** with non-empty subtrees T1, T2, ..., Tn.
 
-*Two Restrictions for Trees:*
-1. No duplicate references allowed
+*Two Restrictions for Trees:* <br>
+1. No duplicate references allowed <br>
 2. No reference points back to root
 
 ### Binary Tree
 
 A binary tree is a tree where a node can have at most two children.
 If every leaf is at the same depth, we have a **full binary tree**. <br>
-(-- For a full binary tree, we have 2^n nodes at the last level, and 2^(n+1) - 1 nodes in total)
+(-- For a full binary tree, we have 2^n nodes at the last level, and 2^(n+1) - 1 nodes in total) <br>
 If every level except the last is full, and all leaf nodes at the last level are as left as possible, we have a **complete binary tree**.
 
 ## Tree Traversal
 
 We use the term "traverse" to distinguish it from the linear-nature of "iterate".
 
-**Preorder** - work on current node, then recurse to left, then recurse to right
+**Preorder** - work on current node, then recurse to left, then recurse to right <br>
 **Postorder** - Perform work at current node AFTER preforming it on left and right children
 
