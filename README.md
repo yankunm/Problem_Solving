@@ -1,4 +1,4 @@
-# LeetCode - Yankun (Alex) Meng - Stony Brook University / Duke University
+# LeetCode - Yankun (Alex) Meng - SBU // Duke University
 
 ![image](https://github.com/yankunm/LeetCode/assets/91627484/2228c6a0-fe50-4149-ab2b-71960133983b)
 
