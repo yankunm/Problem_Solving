@@ -8,7 +8,7 @@
 ### Two Pointers for two sequences
 
 ## Binary Search***
-[33. Search in Rotated Sorted Array]()(Medium) (un)
+[33. Search in Rotated Sorted Array](https://github.com/yankunm/LeetCode/tree/main/BinarySearch/33.SearchInRotatedSortedArray)(Medium)
 
 ### Binary Processing
 ### Binary Search by Value
