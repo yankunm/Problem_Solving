@@ -8,6 +8,8 @@
 ### Two Pointers for two sequences
 
 ## Binary Search***
+[33. Search in Rotated Sorted Array]()(Medium) (un)
+
 ### Binary Processing
 ### Binary Search by Value
 #### Find K-th Element
@@ -23,8 +25,6 @@
 [222. Count Complete Tree Nodes](https://github.com/yankunm/LeetCode/tree/main/Tree/222.CountCompleteTreeNodes) (Medium) <br>
 [114. Flatten Binary Tree to Linked List](https://github.com/yankunm/LeetCode/tree/main/Tree/114.FlattenBinaryTreetoLinkedList) (Medium) <br>
 
-
-
 ### Path in a Tree
 ### Serialization & Hashing
 ### Tree & Sequence
@@ -33,6 +33,8 @@
 ### Re-root
 ### Segment Tree
 ### Binary Index Tree
+
+## Backtracking***
 
 ## DFS***
 ### Search in an array
