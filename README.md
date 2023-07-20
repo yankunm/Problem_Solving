@@ -5,6 +5,8 @@
 ## Two Pointers***
 
 [344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/344.ReverseString) (Easy)
+[26. Remove Duplicates from Sorted Array](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/26.RemoveDuplicatesFromSortedArray) (Easy)
+
 
 ### Sliding Window
 ### Sliding Window : Distinct Characters
