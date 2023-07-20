@@ -17,10 +17,10 @@ Three requirements for hash function: <br>
 
 ## History
 
-Hashing with Chaining - Hans Peter Luhn (German Researcher, 1953, IBM)
-Open Addressing based Hash Tables, Linear Probing (IBM 701, Arthur Lee Samuel, Gene Myron Amdahl, Elaine M. McGraw, Nathaniel Rochester, 1954, IBM)
-Hashing with Linear Probing - Andrey Petrovich Yershov (Soviet Computer Scientist, 1950s)
-Came up with word "Hashing" - [Robert Morris](https://www.nytimes.com/2011/06/30/technology/30morris.html) (American Cryptographer, 1960-1986, Bell Labs)
+Hashing with Chaining - Hans Peter Luhn (German Researcher, 1953, IBM) <br>
+Open Addressing based Hash Tables, Linear Probing (IBM 701, Arthur Lee Samuel, Gene Myron Amdahl, Elaine M. McGraw, Nathaniel Rochester, 1954, IBM) <br>
+Hashing with Linear Probing - Andrey Petrovich Yershov (Soviet Computer Scientist, 1950s) <br>
+Came up with word "Hashing" - [Robert Morris](https://www.nytimes.com/2011/06/30/technology/30morris.html) (American Cryptographer, 1960-1986, Bell Labs) <br>
 
 ## Direct Addressing
 
