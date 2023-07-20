@@ -4,16 +4,16 @@
 
 ## Two Pointers***
 
-[344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/344.ReverseString) (Easy)
-[26. Remove Duplicates from Sorted Array](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/26.RemoveDuplicatesFromSortedArray) (Easy)
-[11. Container With Most Water](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/11.ContainerWithMostWater) (Medium)
+[344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/344.ReverseString) (Easy) <br>
+[26. Remove Duplicates from Sorted Array](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/26.RemoveDuplicatesFromSortedArray) (Easy) <br>
+[11. Container With Most Water](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/11.ContainerWithMostWater) (Medium) <br>
 
 ### Sliding Window
 ### Sliding Window : Distinct Characters
 ### Two Pointers for two sequences
 
 ## Binary Search***
-[33. Search in Rotated Sorted Array](https://github.com/yankunm/LeetCode/tree/main/BinarySearch/33.SearchInRotatedSortedArray)(Medium)
+[33. Search in Rotated Sorted Array](https://github.com/yankunm/LeetCode/tree/main/BinarySearch/33.SearchInRotatedSortedArray)(Medium) <br>
 
 ### Binary Processing
 ### Binary Search by Value
@@ -40,7 +40,7 @@
 ### Binary Index Tree
 
 ## Backtracking***
-[78. Subsets](https://github.com/yankunm/LeetCode/tree/main/Backtracking/78.Subsets) (Medium)
+[78. Subsets](https://github.com/yankunm/LeetCode/tree/main/Backtracking/78.Subsets) (Medium) <br>
 
 ## DFS***
 ### Search in an array
