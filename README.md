@@ -7,6 +7,10 @@
 [344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/344.ReverseString) (Easy) <br>
 [26. Remove Duplicates from Sorted Array](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/26.RemoveDuplicatesFromSortedArray) (Easy) <br>
 [11. Container With Most Water](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/11.ContainerWithMostWater) (Medium) <br>
+TODO: 42. Trapping Rain Water
+TODO: 283. Move Zeros
+TODO: 80. Remove Duplicates From Sorted Array II
+TODO: 1047. Remove All Adjacent Duplicates In String
 
 ### Sliding Window
 ### Sliding Window : Distinct Characters
