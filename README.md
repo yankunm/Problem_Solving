@@ -6,9 +6,9 @@
 
 [344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/344.ReverseString) (Easy) <br>
 [26. Remove Duplicates from Sorted Array](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/26.RemoveDuplicatesFromSortedArray) (Easy) <br>
+[283. Move Zeros](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/283.MoveZeroes) (Easy) <br>
 [11. Container With Most Water](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/11.ContainerWithMostWater) (Medium) <br>
 TODO: 42. Trapping Rain Water <br>
-TODO: 283. Move Zeros <br>
 TODO: 80. Remove Duplicates From Sorted Array II <br>
 TODO: 1047. Remove All Adjacent Duplicates In String <br>
 
