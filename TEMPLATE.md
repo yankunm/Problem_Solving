@@ -2,8 +2,7 @@
 
 ## Two pointers: one input, opposite ends
 
-'''
-
+```
 public int fn(int[] arr) {
     int left = 0;
     int right = arr.length - 1;
@@ -20,5 +19,4 @@ public int fn(int[] arr) {
 
     return ans;
 }
-
-'''
+```
