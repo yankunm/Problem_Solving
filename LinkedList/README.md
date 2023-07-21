@@ -26,13 +26,13 @@ Approach: Fast pointer go two nodes, Slow pointer go one node
 
   *When fast pointer reaches null, slow pointer points at middle.* --> **Floyd's Cycle Detection Algorithm**
 
-1 --> 2 --> 3 --> 4 --> null
-            i <br>
-                         j <br>
+*High Level Idea:*
 
-1 --> 2 --> 3 --> 4 --> 5 --> null
-            i <br>
-                               j <br>
+1. Initialize 2 pointers i and j pointing to the head <br>
+2. While the next move of the fast pointer j is valid (inside bound): <br>
+        Move j two steps and i one step forward <br>
+3. Return the node at i <br>
+
 
 
 
