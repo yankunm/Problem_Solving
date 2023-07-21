@@ -16,6 +16,15 @@ TODO: 1047. Remove All Adjacent Duplicates In String <br>
 ### Sliding Window : Distinct Characters
 ### Two Pointers for two sequences
 
+## Stack**
+### Monotonic Stack: next greater / smaller
+### Monotonic Stack: other usages
+### form smallest sequence
+### parse expression
+
+## Linked List***
+### Reverse Linked List
+
 ## Binary Search***
 [33. Search in Rotated Sorted Array](https://github.com/yankunm/LeetCode/tree/main/BinarySearch/33.SearchInRotatedSortedArray)(Medium) <br>
 
@@ -57,9 +66,6 @@ TODO: 1047. Remove All Adjacent Duplicates In String <br>
 ### Dijkstra (BFS + PQ)
 ### Dijkstra (for Bipartite Graph)
 
-## Linked List***
-### Reverse Linked List
-
 ## Divide and Conquer***
 
 ## Recursion***
@@ -88,12 +94,6 @@ TODO: 1047. Remove All Adjacent Duplicates In String <br>
 
 ## Design**
 ### Linked List
-
-## Stack**
-### Monotonic Stack: next greater / smaller
-### Monotonic Stack: other usages
-### form smallest sequence
-### parse expression
 
 ## Deque**
 
