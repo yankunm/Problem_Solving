@@ -1,6 +1,6 @@
 # Stack
 
-Last-In-First-Out
+Last-In-First-Out: look back at the IMMEDIATE past values.
 
 ## Using Past State
 
