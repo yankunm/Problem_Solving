@@ -18,6 +18,9 @@ TODO: 1047. Remove All Adjacent Duplicates In String <br>
 
 ## Stack**
 ### Monotonic Stack: next greater / smaller
+
+[739. Daily Temperatures](https://github.com/yankunm/LeetCode/tree/main/Stack/739.DailyTemperatures) (Medium)
+
 ### Monotonic Stack: other usages
 ### form smallest sequence
 ### parse expression
