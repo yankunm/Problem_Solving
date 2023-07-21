@@ -17,11 +17,13 @@ TODO: 1047. Remove All Adjacent Duplicates In String <br>
 ### Two Pointers for two sequences
 
 ## Stack**
+
+[20. Valid Parentheses](https://github.com/yankunm/LeetCode/tree/main/Stack/20.ValidParentheses) (Easy)
+
 ### Monotonic Stack: next greater / smaller
 
 [739. Daily Temperatures](https://github.com/yankunm/LeetCode/tree/main/Stack/739.DailyTemperatures) (Medium) <br>
 [735. Asteroid Collision](https://github.com/yankunm/LeetCode/tree/main/Stack/735.AsteroidCollision) (Medium) <br>
-TODO: 20. Valid Parentheses <br>
 TODO: 496. Next Greater Element I <br>
 TODO: 503. Next Greater Element II <br>
 TODO: 394. Decode String <br>
