@@ -35,7 +35,10 @@ TODO: 84. Largest Rectangle in Histogram <br>
 ### parse expression
 
 ## Linked List***
+
 ### Two Pointers
+
+[876. Middle Of The Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList/876.MiddleOfTheLinkedList) (Easy) <br>
 
 ### Reverse Linked List
 
