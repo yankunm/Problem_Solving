@@ -28,6 +28,14 @@ Monotonic increasing means it never is constant, or is never decreasing, and vic
 
 When an element is popped from a m0onotonic stack, it is never used again.
 
+### Monotonic Increasing Stack
+
+Keep on pushing the elements in the stack until it is on an element that is smaller than the stack’s top and when it reaches such a number, it keeps on popping the stack till the point where it is either empty or its top is smaller than its current element. Therefore all the elements in the stack are in increasing order from bottom to top.
+
+### Monotonic Decreasing Stack
+
+If we want to find the next greater element in an array, we can maintain a monotonic decreasing stack. This means that if an element is pushed onto the stack, any elements that are smaller than it are popped from the stack until the top element is greater than the new element. 
+
 ## The Deque Interface: ArrayDeque Class
 
 A "deck" is a double-ended Queue.
