@@ -9,6 +9,8 @@
 4. Implement in actual code <br>
 5. Seek Improvement <br>
 
+*Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
+
 ## Two Pointers***
 
 [344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/344.ReverseString) (Easy) <br>
