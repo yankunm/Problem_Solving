@@ -50,9 +50,12 @@ TODO: 84. Largest Rectangle in Histogram <br>
 ### Two Pointers
 
 [876. Middle Of The Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList/876.MiddleOfTheLinkedList) (Easy) <br>
+TODO: 237. Delete node in a linked list <br>
+TODO: 141. Linked List cycle <br>
 
 ### Bottom-Up Recursion
-
+TODO: 92. Reverse Linked List II <br>
+TODO: 25. Reverse Nodes in k-Group <br>
 
 
 ## [Binary Search](https://github.com/yankunm/LeetCode/tree/main/BinarySearch)***
