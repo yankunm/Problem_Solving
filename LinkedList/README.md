@@ -70,6 +70,10 @@ null <-- 1 <-- | reversed |
 
 * return the reversed list (*result*)
 
+* The base case is simplest case
+
+When we only have one node, the next is null, or if head is empty itself, we can just return head.
+
 
 
 
