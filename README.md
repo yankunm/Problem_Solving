@@ -2,6 +2,13 @@
 
 ![image](https://github.com/yankunm/LeetCode/assets/91627484/2228c6a0-fe50-4149-ab2b-71960133983b)
 
+Problem Solving: <br>
+1. Read carefully and model the problem <br>
+2. Build Intuition by walking over enough examples <br>
+3. Draw/Visualize to come up with solution <br>
+4. Write out high level idea <br>
+5. Implement in actual code <br>
+
 ## Two Pointers***
 
 [344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/344.ReverseString) (Easy) <br>
