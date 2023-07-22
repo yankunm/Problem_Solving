@@ -41,7 +41,7 @@ TODO: 84. Largest Rectangle in Histogram <br>
 ### form smallest sequence
 ### parse expression
 
-## Linked List***
+## [Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList)***
 
 ### Two Pointers
 
