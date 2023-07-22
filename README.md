@@ -1,6 +1,6 @@
 # LeetCode - Yankun (Alex) Meng - SBU // Duke
 
-This is a recording of my Computer Science Problem Solving (Leetcode) Journey.
+This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -- Alex Meng 7/17/2023
 
 ![image](https://github.com/yankunm/LeetCode/assets/91627484/2228c6a0-fe50-4149-ab2b-71960133983b)
 
