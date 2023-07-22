@@ -33,7 +33,22 @@ Approach: Fast pointer go two nodes, Slow pointer go one node
         Move j two steps and i one step forward <br>
 3. Return the node at i <br>
 
-**Ex(2) Linked List find k-th last node**
+## Recursion
+
+Call Stack -- first in last out. So if we need to go from back to head of linked list somehow, we can use (bottom-up) recursion.
+
+**Most important for Recursion: BELIEVE that what you assume will absolutely happen, that your recursive function is definitely correct**
+
+**Bottom-Up Recursion:** <br>
+1. Get subproblem **result** <br>
+2. Do something at current level <br>
+3. return **result** <br>
+
+The **result** for steps 1 and 3 must be consistent with each other.
+
+
+
+
 
 
 
