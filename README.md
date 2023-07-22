@@ -27,7 +27,7 @@ TODO: 1047. Remove All Adjacent Duplicates In String <br>
 ### Sliding Window : Distinct Characters
 ### Two Pointers for two sequences
 
-## Stack**
+## [Stack](https://github.com/yankunm/LeetCode/tree/main/Stack)**
 
 [20. Valid Parentheses](https://github.com/yankunm/LeetCode/tree/main/Stack/20.ValidParentheses) (Easy)
 
