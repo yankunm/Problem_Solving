@@ -13,7 +13,7 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
-## Two Pointers***
+## [Two Pointers](https://github.com/yankunm/LeetCode/tree/main/TwoPointers)***
 
 [344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/344.ReverseString) (Easy) <br>
 [26. Remove Duplicates from Sorted Array](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/26.RemoveDuplicatesFromSortedArray) (Easy) <br>
