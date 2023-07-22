@@ -33,6 +33,10 @@ Approach: Fast pointer go two nodes, Slow pointer go one node
         Move j two steps and i one step forward <br>
 3. Return the node at i <br>
 
+**Ex(2) Linked List find k-th last node**
+
+
+
 
 
 
