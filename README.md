@@ -53,7 +53,7 @@ TODO: 84. Largest Rectangle in Histogram <br>
 
 ### Reverse Linked List
 
-## Binary Search***
+## [Binary Search](https://github.com/yankunm/LeetCode/tree/main/BinarySearch)***
 [33. Search in Rotated Sorted Array](https://github.com/yankunm/LeetCode/tree/main/BinarySearch/33.SearchInRotatedSortedArray)(Medium) <br>
 
 ### Binary Processing
