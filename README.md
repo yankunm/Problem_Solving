@@ -4,10 +4,10 @@
 
 **Problem Solving:** <br>
 1. Read carefully and model the problem <br>
-2. Build Intuition by walking over enough examples <br>
-3. Draw/Visualize to come up with solution <br>
-4. Write out high level idea / Pseudocode <br>
-5. Implement in actual code <br>
+2. Build Intuition through visualizing examples <br>
+3. Write out high level idea / Pseudocode <br>
+4. Implement in actual code <br>
+5. Seek Improvement <br>
 
 ## Two Pointers***
 
