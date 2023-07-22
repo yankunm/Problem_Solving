@@ -46,6 +46,34 @@ Call Stack -- first in last out. So if we need to go from back to head of linked
 
 The **result** for steps 1 and 3 must be consistent with each other.
 
+**Ex(1) Reverse Linked List**
+
+Reverse all REFERENCES in a linked list.
+
+Step 1 for all recursion problems, lets assume everything before is already reversed except the node.
+
+Everything follows from this assumption. Get the reversed part from subproblem. (*result*)
+
+1 --> 2 --> 3 --> 4 --> 5
+
+1 --> | reversed |
+
+* make the next of the next node myself
+
+1 <-- | reversed |
+
+* make my next null
+
+null <-- 1 <-- | reversed |
+
+* return the reversed list (*result*)
+
+
+
+
+
+
+
 
 
 
