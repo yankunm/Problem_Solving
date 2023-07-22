@@ -9,7 +9,7 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 2. Build Intuition through visualizing examples <br>
 3. Write out high level idea / Pseudocode <br>
 4. Implement in actual code <br>
-5. Seek Improvement <br>
+5. Analyze your algorithm and seek improvement (time, memory, code quality) <br>
 
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
