@@ -37,7 +37,9 @@ Approach: Fast pointer go two nodes, Slow pointer go one node
 
 Call Stack -- first in last out. So if we need to go from back to head of linked list somehow, we can use (bottom-up) recursion.
 
-**Most important for Recursion: BELIEVE that what you assume will absolutely happen, that your recursive function is definitely correct**
+**Important for Recursion: BELIEVE that what you assume will absolutely happen, that your recursive function is definitely correct**
+
+**Most Important for Recursion: Base case**
 
 **Bottom-Up Recursion:** <br>
 1. Get subproblem **result** <br>
