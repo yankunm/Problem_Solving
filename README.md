@@ -2,7 +2,7 @@
 
 ![image](https://github.com/yankunm/LeetCode/assets/91627484/2228c6a0-fe50-4149-ab2b-71960133983b)
 
-Problem Solving: <br>
+**Problem Solving:** <br>
 1. Read carefully and model the problem <br>
 2. Build Intuition by walking over enough examples <br>
 3. Draw/Visualize to come up with solution <br>
