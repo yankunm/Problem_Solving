@@ -84,6 +84,9 @@ TODO: 98. Validate Binary Search Tree <br>
 ## Backtracking***
 [78. Subsets](https://github.com/yankunm/LeetCode/tree/main/Backtracking/78.Subsets) (Medium) <br>
 TODO: 77. Combinations <br>
+TODO: 46. Permutations <br>
+TODO: 17. Letter Combinations of a Phone Number <br>
+TODO: 51. N-Queens <br>
 TODO: 52. N-Queens II <br>
 TODO: 489. Robot Room Cleaner <br>
 TODO: 37. Sudoku Solver <br>
@@ -109,7 +112,12 @@ TODO: 74. Search a 2D Matrix <br>
 [222. Count Complete Tree Nodes](https://github.com/yankunm/LeetCode/tree/main/Tree/222.CountCompleteTreeNodes) (Medium) <br>
 [114. Flatten Binary Tree to Linked List](https://github.com/yankunm/LeetCode/tree/main/Tree/114.FlattenBinaryTreetoLinkedList) (Medium) <br>
 TODO: 95. Unique Binary Search Trees II <br>
-TODO: 100. Same Tree
+TODO: 100. Same Tree <br>
+TODO: 94. Binary Tree Inorder Traversal <br>
+TODO: 102. Binary Tree Level Order Traversal <br>
+TODO: 426. Convert Binary Search Tree to Sorted Doubly Linked List <br>
+
+
 
 ### Path in a Tree
 ### Serialization & Hashing
@@ -218,7 +226,9 @@ TODO: 96. Unique Binary Search Trees <br>
 ### Collision
 ### Conclusion Transfer
 ### Count Subarray by Element
-### Diff Array
+### Sweeping Line / Diff Array
+TODO: 218. The Skyline Problem <br>
+
 ### 2D Diff
 ### Enumeration
 ### Presum
