@@ -67,7 +67,7 @@ TODO: 118. Pascal's Triangle <br>
 TODO: 119. Pascal's Triangle II <br>
 TODO: 104. Maximum Depth of Binary Tree <br>
 TODO: 50. Pow(x, n) <br>
-779. K-th Symbol in Grammar <br>
+TODO: 779. K-th Symbol in Grammar <br>
 
 ### Memoization
 TODO: 509. Fibonacci Number <br>
