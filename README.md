@@ -64,7 +64,7 @@ TODO: 21. Merge Two Sorted Lists <br>
 
 ## Recursion (Basics)***
 [344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/Recursion/344.ReverseString) (Easy) <br>
-TODO: 24. Swap Nodes in Pairs <br>
+[24. Swap Nodes in Pairs](https://github.com/yankunm/LeetCode/tree/main/Recursion/24.SwapNodesInPairs) (Medium) <br>
 TODO: 700. Search in a Binary Search Tree <br>
 TODO: 118. Pascal's Triangle <br>
 TODO: 119. Pascal's Triangle II <br>
