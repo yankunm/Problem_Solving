@@ -13,6 +13,9 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
+## Hash Map***
+### Hash + Prefix
+
 ## [Two Pointers](https://github.com/yankunm/LeetCode/tree/main/TwoPointers)***
 
 [344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/344.ReverseString) (Easy) <br>
@@ -88,9 +91,6 @@ TODO: 74. Search a 2D Matrix <br>
 ### Binary Processing
 ### Binary Search by Value
 #### Find K-th Element
-
-## Hash Map***
-### Hash + Prefix
 
 ## Tree***
 [270. Closest Binary Search Tree Value](https://github.com/yankunm/LeetCode/tree/main/Tree/270.%20Closest%20Binary%20Search%20Tree%20Value) (Easy) <br>
