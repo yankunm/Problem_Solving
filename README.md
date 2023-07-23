@@ -54,12 +54,45 @@ TODO: 237. Delete node in a linked list <br>
 TODO: 141. Linked List cycle <br>
 
 ### Bottom-Up Recursion
+206. Reverse Linked List <br>
 TODO: 92. Reverse Linked List II <br>
 TODO: 25. Reverse Nodes in k-Group <br>
+TODO: 21. Merge Two Sorted Lists <br>
+
+## Recursion (Basics)***
+TODO: 344. Reverse String <br>
+TODO: 24. Swap Nodes in Pairs <br>
+TODO: 700. Search in a Binary Search Tree <br>
+TODO: 118. Pascal's Triangle <br>
+TODO: 119. Pascal's Triangle II <br>
+TODO: 104. Maximum Depth of Binary Tree <br>
+TODO: 50. Pow(x, n) <br>
+779. K-th Symbol in Grammar <br>
+
+### Memoization
+TODO: 509. Fibonacci Number <br>
+TODO: 70. Climbing Stairs <br>
+
+### Evaluate Expressions
+### Min-Max Strategy
+### Digit counting & finding
+
+## Divide-and-Conquer***
+TODO: 912. Sort an Array <br>
+TODO: 98. Validate Binary Search Tree <br>
+
+## Backtracking***
+[78. Subsets](https://github.com/yankunm/LeetCode/tree/main/Backtracking/78.Subsets) (Medium) <br>
+TODO: 77. Combinations <br>
+TODO: 52. N-Queens II <br>
+TODO: 489. Robot Room Cleaner <br>
+TODO: 37. Sudoku Solver <br>
+TODO: 22. Generate Parentheses <br>
 
 
 ## [Binary Search](https://github.com/yankunm/LeetCode/tree/main/BinarySearch)***
 [33. Search in Rotated Sorted Array](https://github.com/yankunm/LeetCode/tree/main/BinarySearch/33.SearchInRotatedSortedArray)(Medium) <br>
+TODO: 74. Search a 2D Matrix <br>
 
 ### Binary Processing
 ### Binary Search by Value
@@ -75,6 +108,8 @@ TODO: 25. Reverse Nodes in k-Group <br>
 [938. Range Sum of BST](https://github.com/yankunm/LeetCode/tree/main/Tree/938.RangeSumOfBST) (Easy) <br>
 [222. Count Complete Tree Nodes](https://github.com/yankunm/LeetCode/tree/main/Tree/222.CountCompleteTreeNodes) (Medium) <br>
 [114. Flatten Binary Tree to Linked List](https://github.com/yankunm/LeetCode/tree/main/Tree/114.FlattenBinaryTreetoLinkedList) (Medium) <br>
+TODO: 95. Unique Binary Search Trees II <br>
+TODO: 100. Same Tree
 
 ### Path in a Tree
 ### Serialization & Hashing
@@ -85,8 +120,7 @@ TODO: 25. Reverse Nodes in k-Group <br>
 ### Segment Tree
 ### Binary Index Tree
 
-## Backtracking***
-[78. Subsets](https://github.com/yankunm/LeetCode/tree/main/Backtracking/78.Subsets) (Medium) <br>
+
 
 ## DFS***
 ### Search in an array
@@ -98,13 +132,6 @@ TODO: 25. Reverse Nodes in k-Group <br>
 ### Topological sort
 ### Dijkstra (BFS + PQ)
 ### Dijkstra (for Bipartite Graph)
-
-## Divide and Conquer***
-
-## Recursion***
-### Evaluate Expressions
-### Min-Max Strategy
-### Digit counting & finding
 
 ## String***
 ### Abbreviation
@@ -145,6 +172,8 @@ TODO: 25. Reverse Nodes in k-Group <br>
 #### Bipartite Graph
 #### TSP
 ### Catalan
+TODO: 96. Unique Binary Search Trees <br>
+
 ### Permutation
 ### Infer future from current
 ### Maximum Subarray
