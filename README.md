@@ -65,10 +65,9 @@ TODO: 21. Merge Two Sorted Lists <br>
 ## Recursion (Basics)***
 [344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/Recursion/344.ReverseString) (Easy) <br>
 [24. Swap Nodes in Pairs](https://github.com/yankunm/LeetCode/tree/main/Recursion/24.SwapNodesInPairs) (Medium) <br>
-TODO: 700. Search in a Binary Search Tree <br>
 TODO: 118. Pascal's Triangle <br>
 TODO: 119. Pascal's Triangle II <br>
-TODO: 104. Maximum Depth of Binary Tree <br>
+
 TODO: 50. Pow(x, n) <br>
 TODO: 779. K-th Symbol in Grammar <br>
 
@@ -104,6 +103,9 @@ TODO: 100. Same Tree <br>
 TODO: 94. Binary Tree Inorder Traversal <br>
 TODO: 102. Binary Tree Level Order Traversal <br>
 TODO: 426. Convert Binary Search Tree to Sorted Doubly Linked List <br>
+TODO: 700. Search in a Binary Search Tree <br>
+TODO: 104. Maximum Depth of Binary Tree <br>
+
 ### Path in a Tree
 ### Serialization & Hashing
 ### Tree & Sequence
