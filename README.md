@@ -13,7 +13,7 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
-## Hash Map***
+## Hash Table***
 ### Hash + Prefix
 
 ## [Two Pointers](https://github.com/yankunm/LeetCode/tree/main/TwoPointers)***
