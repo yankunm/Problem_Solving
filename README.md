@@ -81,18 +81,6 @@ TODO: 70. Climbing Stairs <br>
 TODO: 912. Sort an Array <br>
 TODO: 98. Validate Binary Search Tree <br>
 
-## Backtracking***
-[78. Subsets](https://github.com/yankunm/LeetCode/tree/main/Backtracking/78.Subsets) (Medium) <br>
-TODO: 77. Combinations <br>
-TODO: 46. Permutations <br>
-TODO: 17. Letter Combinations of a Phone Number <br>
-TODO: 51. N-Queens <br>
-TODO: 52. N-Queens II <br>
-TODO: 489. Robot Room Cleaner <br>
-TODO: 37. Sudoku Solver <br>
-TODO: 22. Generate Parentheses <br>
-
-
 ## [Binary Search](https://github.com/yankunm/LeetCode/tree/main/BinarySearch)***
 [33. Search in Rotated Sorted Array](https://github.com/yankunm/LeetCode/tree/main/BinarySearch/33.SearchInRotatedSortedArray)(Medium) <br>
 TODO: 74. Search a 2D Matrix <br>
@@ -116,9 +104,6 @@ TODO: 100. Same Tree <br>
 TODO: 94. Binary Tree Inorder Traversal <br>
 TODO: 102. Binary Tree Level Order Traversal <br>
 TODO: 426. Convert Binary Search Tree to Sorted Doubly Linked List <br>
-
-
-
 ### Path in a Tree
 ### Serialization & Hashing
 ### Tree & Sequence
@@ -128,7 +113,16 @@ TODO: 426. Convert Binary Search Tree to Sorted Doubly Linked List <br>
 ### Segment Tree
 ### Binary Index Tree
 
-
+## Backtracking***
+[78. Subsets](https://github.com/yankunm/LeetCode/tree/main/Backtracking/78.Subsets) (Medium) <br>
+TODO: 77. Combinations <br>
+TODO: 46. Permutations <br>
+TODO: 17. Letter Combinations of a Phone Number <br>
+TODO: 51. N-Queens <br>
+TODO: 52. N-Queens II <br>
+TODO: 489. Robot Room Cleaner <br>
+TODO: 37. Sudoku Solver <br>
+TODO: 22. Generate Parentheses <br>
 
 ## DFS***
 ### Search in an array
