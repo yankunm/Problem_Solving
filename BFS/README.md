@@ -9,7 +9,7 @@ Using the concept of "level", we use a queue to store the nodes that *need expan
      a. for each node in queue (current level) <br>
      b. poll out the element (add to result) <br>
      c. expand it, offer children (next level) to the queue *in order* (depends on question) <br>
-     d. go to next level <br>
+     d. (*go to next level*) <br>
 
 Look at each node in queue, take it out, use it in some way, and "expand it". <br>
 
