@@ -13,8 +13,18 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
+## BFS***
+### Tree
+102. Binary Tree Level Order Traversal( <br>
+TODO: 104. Maximum Depth of Binary Tree <br>
+### Multi State
+### Topological sort
+### Dijkstra (BFS + PQ)
+### Dijkstra (for Bipartite Graph)
+
 ## Hash Table***
 ### Hash + Prefix
+
 
 ## [Two Pointers](https://github.com/yankunm/LeetCode/tree/main/TwoPointers)***
 
@@ -127,15 +137,6 @@ TODO: 22. Generate Parentheses <br>
 ### Search in an array
 ### Memorization
 ### Hidden Matrix
-
-## BFS***
-### Tree
-TODO: 102. Binary Tree Level Order Traversal <br>
-TODO: 104. Maximum Depth of Binary Tree <br>
-### Multi State
-### Topological sort
-### Dijkstra (BFS + PQ)
-### Dijkstra (for Bipartite Graph)
 
 ## String***
 ### Abbreviation
