@@ -15,7 +15,7 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 
 ## BFS***
 ### Tree
-102. Binary Tree Level Order Traversal( <br>
+[102. Binary Tree Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/BFS/102.BinaryTreeLevelOrderTraversal) (Medium)<br>
 TODO: 104. Maximum Depth of Binary Tree <br>
 ### Multi State
 ### Topological sort
