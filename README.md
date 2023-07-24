@@ -1,4 +1,4 @@
-# LeetCode - Yankun (Alex) Meng - SBU // Duke
+# LeetCode -- Yankun (Alex) Meng
 
 This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -- Alex Meng 7/17/2023
 
