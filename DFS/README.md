@@ -15,7 +15,7 @@ DFS is recursive, go as far as possible before backtracking.
 1. Pass down the result as a parameter <br>
 2. Usually no return value <br>
 
-### Bottom-Up Recursion
+### Bottom-Up Recursion (Harder, More Common)
 
 1. Get the result from sub-problem <br>
 2. Use that result to do work at current level to compute a *Solution* <br>
