@@ -23,3 +23,12 @@ DFS is recursive, go as far as possible before backtracking.
 
 When implementing bottom-up, always consider a middle node. (*One that has both children and parent*)
 
+## Bottom-Up DFS
+
+High Level Idea: <br>
+1. Base Case <br>
+2. Get **result** from sub-problem <br>
+3. Use **result** to do work at current level to compute a *Solution* <br>
+4. If needed, do additional processing <br>
+5. return the *Solution* to parent level
+
