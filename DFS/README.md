@@ -17,8 +17,8 @@ DFS is recursive, go as far as possible before backtracking.
 
 ### Bottom-Up Recursion (Harder, More Common)
 
-1. Get the result from sub-problem <br>
-2. Use that result to do work at current level to compute a *Solution* <br>
+1. Get the **result** from sub-problem <br>
+2. Use that **result** to do work at current level to compute a *Solution* <br>
 3. return the *Solution* to parent level
 
 
