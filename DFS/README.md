@@ -21,5 +21,5 @@ DFS is recursive, go as far as possible before backtracking.
 2. Use that **result** to do work at current level to compute a *Solution* <br>
 3. return the *Solution* to parent level
 
-When implementing bottom-up, always consider a middle node.
+When implementing bottom-up, always consider a middle node (*One that has both children and parent*).
 
