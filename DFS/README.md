@@ -32,3 +32,5 @@ High Level Idea: <br>
 4. If needed, do additional processing <br>
 5. return the *Solution* to parent level
 
+Note: **result** should be defined exactly the same as *Solution*
+
