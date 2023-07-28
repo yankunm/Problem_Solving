@@ -40,6 +40,7 @@ TODO: 450. Delete Node in a BST <br>
 ### Hidden Matrix
 
 ## Graph**
+[542. 01 Matrix](https://github.com/yankunm/LeetCode/tree/main/Graph/542.01Matrix) (Medium) <br>
 ### Floyd
 ### Hungarian Algorithm
 
