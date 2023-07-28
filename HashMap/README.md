@@ -1,12 +1,29 @@
 # Hash Table ADT
 
 When the number of elements stored is small compared to the number of "buckets", hashing shines with its search efficiency.
+
 ## Hash Table Template
 
 * **HashMap** - Array + Linked List (chaining, data needs equals() and hashCode() methods)
 * **LinkedHashMap** - HashMap with order (key insertion order), stores all keys in a doubly linked list (large overhead)
 * **TreeMap** - Map with order (smallest-to-biggest), stores all keys in red-black tree (O(log n))
 * **HashSet** - A HashMap without *value*, only *keys*
+
+Hash Table is affected by two things: *Initial Capacity* and *Load Factor*
+
+**Initial Capacity** - how many buckets are there in the beginning
+**Load Factor** - A Limit on when to resize
+
+When the number of things in the hash table reaches *Load Factor times capacity*, the capacity is doubled. 
+
+For example, if the load factor is 0.5, and the capacity of the hash table is 10. When the number of things reaches 5, the hash table must be **rehashed** to a table size of 20. 
+
+Default Load Factor = 0.75
+
+**The Load Factor controls the tradeoff between TIME and SPACE**
+
+More load factor --> more things to put --> more collisions --> lookup time slows down <br>
+Less Load Factor --> more space to put things --> too much wasted empty space <br>
 
 ## Hash Functions
 
