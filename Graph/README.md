@@ -29,15 +29,15 @@ A Graph might have CYCLES so we need to check for DUPLICATES. Drop breadcrumb.
 ### BFS Template
 
 BFS High Level Idea: <br>
-1. Initialize Queue with all entry points
-2. Initialize HashSet to record discovered nodes
-3. Loop through each level of the graph:
-   a. Record current level stats
-   b. Loop through each node in this level
-     i. Poll node
-     ii. Process node
-     iii. Expand node only if *not visited* and *valid*
-   c. Increase level
+1. Initialize Queue with all entry points <br>
+2. Initialize HashSet to record discovered nodes <br>
+3. Loop through each level of the graph: <br>
+   a. Record current level stats <br>
+   b. Loop through each node in this level <br>
+     i. Poll node <br>
+     ii. Process node <br> 
+     iii. Expand node only if *not visited* and *valid* <br>
+   c. Increase level <br>
 
 
 
