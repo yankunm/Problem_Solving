@@ -4,7 +4,7 @@ When the number of elements stored is small compared to the number of "buckets",
 ## Hash Table Template
 
 * **HashMap** - Array + Linked List (chaining, data needs equals() and hashCode() methods)
-* **LinkedHashMap** - HashMap with order (key insertion order), stores all keys in a linked list
+* **LinkedHashMap** - HashMap with order (key insertion order), stores all keys in a doubly linked list (large overhead)
 * **TreeMap** - Map with order (smallest-to-biggest), stores all keys in red-black tree (O(log n))
 * **HashSet** - A HashMap with out *value*, only *keys*
 
