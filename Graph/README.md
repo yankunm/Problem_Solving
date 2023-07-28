@@ -34,9 +34,9 @@ BFS High Level Idea: <br>
 3. Loop through each level of the graph: <br>
    a. Record current level stats <br>
    b. Loop through each node in this level <br>
-     i. Poll node <br>
-     ii. Process node <br> 
-     iii. Expand node only if *not visited* and *valid* <br>
+        i. Poll node <br>
+        ii. Process node <br> 
+        iii. Expand node only if *not visited* and *valid* <br>
    c. Increase level <br>
 
 
