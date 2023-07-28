@@ -16,8 +16,8 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 ## BFS***
 TODO: 101. Symmetric Tree <br>
 [102. Binary Tree Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/BFS/102.BinaryTreeLevelOrderTraversal) (Medium)<br>
-TODO: 103. Binary Tree Zigzag Level Order Traversal <br>
-TODO: 104. Maximum Depth of Binary Tree <br>
+[103. Binary Tree Zigzag Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/BFS/103.BinaryTreeZigzagLevelOrderTraversal) (Medium) <br>
+[104. Maximum Depth of Binary Tree](https://github.com/yankunm/LeetCode/tree/main/BFS/104.MaximumDepthOfBinaryTree) (Medium) <br>
 TODO: 111. Minimum Depth of a Binary Tree <br>
 TODO: 515. Find Largest Value in Each Tree Row <br>
 TODO: 429. N-ary Tree Level Order Traversal <br>
