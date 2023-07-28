@@ -22,6 +22,18 @@ TODO: 104. Maximum Depth of Binary Tree <br>
 ### Dijkstra (BFS + PQ)
 ### Dijkstra (for Bipartite Graph)
 
+## DFS***
+98. Validate Binary Search Tree <br>
+110. Balanced Binary Tree <br>
+113. Path Sum II <br>
+236. Lowest Common Ancestor of a Binary Tree <br>
+450. Delete Node in a BST <br>
+508. Most Frequent Subtree Sum <br>
+
+### Search in an array
+### Memorization
+### Hidden Matrix
+
 ## Hash Table***
 ### Hash + Prefix
 
@@ -132,11 +144,6 @@ TODO: 52. N-Queens II <br>
 TODO: 489. Robot Room Cleaner <br>
 TODO: 37. Sudoku Solver <br>
 TODO: 22. Generate Parentheses <br>
-
-## DFS***
-### Search in an array
-### Memorization
-### Hidden Matrix
 
 ## String***
 ### Abbreviation
