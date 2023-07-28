@@ -1,5 +1,7 @@
 # Graph
 
+Tree: Acyclic Simple Undirected Graph with only One Entry Point
+
 ## Graph Representation
 
 * Adjacency Matrix
