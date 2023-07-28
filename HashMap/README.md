@@ -6,16 +6,20 @@ When the number of elements stored is small compared to the number of "buckets",
 
 Basics:
 * put(key,val): Insert into HashMap
+* putAll(map): Put map into another map, replace any duplicate keys
 * remove(key): Remove element with specified "key"
 * remove(key, val): Remove only if (key, val) both match
 * get(key): Return "value" associated with "key"
-  
-containsKey(key)
-containsValue(val)
-keySet()
-entrySet()
+* containsKey(key): Return true if map has key
+* containsValue(val): Return true if map has val
 
-
+Traversal:
+* keySet(): Return a set of keys
+* values(): Return a set of values
+* entrySet(): Return a set of Map.Entry objects
+* getKey(): Get key on a Map.Entry object
+* getValue(): Get value on a Map.Entry object
+* replace(key, val): Replace key's value with "val", return null if key not found
 
 ## Hash Table Template
 
