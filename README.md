@@ -39,6 +39,10 @@ TODO: 450. Delete Node in a BST <br>
 ### Memorization
 ### Hidden Matrix
 
+## Graph**
+### Floyd
+### Hungarian Algorithm
+
 ## Hash Table***
 ### Hash + Prefix
 
@@ -158,10 +162,6 @@ TODO: 22. Generate Parentheses <br>
 
 ## Heap**
 ### Maintain Intervals
-
-## Graph**
-### Floyd
-### Hungarian Algorithm
 
 ## Priority Queue**
 ### Greedy 
