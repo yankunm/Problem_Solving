@@ -2,6 +2,21 @@
 
 When the number of elements stored is small compared to the number of "buckets", hashing shines with its search efficiency.
 
+## HashMap Methods
+
+Basics:
+* put(key,val): Insert into HashMap
+* remove(key): Remove element with specified "key"
+* remove(key, val): Remove only if (key, val) both match
+* get(key): Return "value" associated with "key"
+  
+containsKey(key)
+containsValue(val)
+keySet()
+entrySet()
+
+
+
 ## Hash Table Template
 
 * **HashMap** - Array + Linked List (chaining, data needs equals() and hashCode() methods)
