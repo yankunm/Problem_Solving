@@ -18,7 +18,7 @@ Tree: Acyclic Simple Undirected Graph with only One Entry Point
 
 Tip: For 2D Matrix Graphs, neighbors of matrix[i][j] is usually top, bottom, left, and right. So it is useful to store 4 direction array to visit neighbors.
 
-i.e. \[\[0,1\],\[1,0\],\[0,-1\],\[-1,0\] \]
+i.e. \[ \[0,1\], \[1,0\], \[0,-1\], \[-1,0\] \]
 
 ## Graph BFS
 
