@@ -28,7 +28,12 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 ### Dijkstra (for Bipartite Graph)
 
 ## DFS***
-
+98. Validate Binary Search Tree <br>
+110. Balanced Binary Tree <br>
+113. Path Sum II <br>
+236. Lowest Common Ancestor of a Binary Tree <br>
+450. Delete Node in a BST <br>
+508. Most Frequent Subtree Sum <br>
 
 ### Search in an array
 ### Memorization
