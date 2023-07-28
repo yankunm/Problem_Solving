@@ -34,3 +34,15 @@ High Level Idea: <br>
 
 Note: **result** should be defined exactly the same as *Solution*
 
+## Top-Down DFS
+
+High Level Idea: <br>
+1. Base Case <br>
+2. Use answer from parent problem (parameter) to do work at current level <br>
+3. If needed, do additional processing <br>
+4. Pass down the *Solution* as a parameter to child-problem
+
+
+
+
+
