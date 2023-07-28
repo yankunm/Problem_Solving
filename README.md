@@ -14,13 +14,13 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
 ## BFS***
-101. Symmetric Tree <br>
+TODO: 101. Symmetric Tree <br>
 [102. Binary Tree Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/BFS/102.BinaryTreeLevelOrderTraversal) (Medium)<br>
-103. Binary Tree Zigzag Level Order Traversal <br>
-104. Maximum Depth of Binary Tree <br>
-111. Minimum Depth of a Binary Tree <br>
-515. Find Largest Value in Each Tree Row <br>
-429. N-ary Tree Level Order Traversal <br>
+TODO: 103. Binary Tree Zigzag Level Order Traversal <br>
+TODO: 104. Maximum Depth of Binary Tree <br>
+TODO: 111. Minimum Depth of a Binary Tree <br>
+TODO: 515. Find Largest Value in Each Tree Row <br>
+TODO: 429. N-ary Tree Level Order Traversal <br>
 
 ### Multi State
 ### Topological sort
@@ -28,11 +28,11 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 ### Dijkstra (for Bipartite Graph)
 
 ## DFS***
-98. Validate Binary Search Tree <br>
-110. Balanced Binary Tree <br>
-113. Path Sum II <br>
-236. Lowest Common Ancestor of a Binary Tree <br>
-450. Delete Node in a BST <br>
+TODO: 98. Validate Binary Search Tree <br>
+TODO: 110. Balanced Binary Tree <br>
+TODO: 113. Path Sum II <br>
+TODO: 236. Lowest Common Ancestor of a Binary Tree <br>
+TODO: 450. Delete Node in a BST <br>
 [508. Most Frequent Subtree Sum](https://github.com/yankunm/LeetCode/tree/main/DFS/508.MostFrequentSubtreeSum) (Medium) <br>
 
 ### Search in an array
