@@ -38,6 +38,28 @@ BFS High Level Idea: <br>
         ii. Process node <br> 
         iii. Expand node only if *not visited* and *valid* <br>
    c. Increase level <br>
+   
+## Graph Best-First Search
+
+Expand the BEST nodes first, used on Non-uniform cost graphs.
+
+How to quickly calculate the BEST: **Heaps**
+
+Most famous algorithm to find the shortest path in a weighted graph: **Dijsktra's Algorithm**
+
+Time: O((V + E) log V) <br>
+Space: O(V) <br>
+
+Best-First Search High Level Idea: <br>
+1. Initialize **Heap** with all starting points marked with some initial cost, a **HashSet** to record visited values. <br>
+2. While Heap is not empty: <br>
+   a. Poll out one node <br>
+   b. If it has already been expanded, skip it <br>
+   c. Otherwise mark the node as visited, update its cost <br>
+   d. If this is the detination node, return <br>
+   e. For all of its neighbors, offer them into the heap with current node's cost + edge cost 
+
+
 
 
 
