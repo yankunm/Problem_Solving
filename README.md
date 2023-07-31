@@ -57,6 +57,10 @@ TODO: 1254. Number of Closed Islands (Medium) <br>
 ### Floyd
 ### Hungarian Algorithm
 
+## Heap**
+347，253，295，767，703.
+### Maintain Intervals
+
 ## Hash Table***
 ### Hash + Prefix
 
@@ -174,8 +178,7 @@ TODO: 22. Generate Parentheses <br>
 ### KMP
 ### Manacher
 
-## Heap**
-### Maintain Intervals
+
 
 ## Priority Queue**
 ### Greedy 
