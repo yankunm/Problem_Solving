@@ -12,14 +12,13 @@ Heap is a *Complete Binary Tree* constructed using an array. The **root** of the
 Work with streams, **no fixed size**, scalable.
 
 ## Min Heap O(nlogk)
-  1 
-  2 * Maintain a size k min heap 
-  3 * Add element to min heap if greater than or equal to the top element, adjus    t size if necessary
-  4 * At the end top of heap is the kth largest 
-  5 
-  6 **Explanation:**
-  7 
-  8 Make sure heap is k-sized. Since we are adding greater elements in the heap     every time. At the end, the top of min heap is the smallest among elements i    n the heap, but it's greater than any other element in the array, which in o    ther words: kth largest element in the array.
+* Maintain a size k min heap 
+* Add element to min heap if greater than or equal to the top element, adjus    t size if necessary
+* At the end top of heap is the kth largest 
+
+**Explanation:**
+
+Make sure heap is k-sized. Since we are adding greater elements in the heap every time. At the end, the top of min heap is the smallest among elements in the heap, but it's greater than any other element in the array, which in other words: kth largest element in the array.
 
 ## Offline Algorithm (Sorting)
 
