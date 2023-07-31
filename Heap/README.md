@@ -1,6 +1,6 @@
 # Heap
 
-Heap is a Complete Binary Tree constructed using an array. The **root** of the tree is either the maximum element (max heap) or the minimum element (min heap).
+Heap is a *Complete Binary Tree* constructed using an array. The **root** of the tree is either the maximum element (max heap) or the minimum element (min heap).
 
 **Common APIs:** <br>
 * peek(): Return at top element in heap (O(1))
