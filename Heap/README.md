@@ -14,7 +14,7 @@ Work with streams, **no fixed size**, scalable.
 ## Min Heap O(nlogk)
 * Maintain a size k min heap 
 * Add element to min heap if greater than or equal to the top element, adjus    t size if necessary
-* At the end top of heap is the kth largest 
+* At the end top of heap is the kth largest
 
 **Explanation:**
 
