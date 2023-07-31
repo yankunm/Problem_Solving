@@ -5,13 +5,15 @@ When the number of elements stored is small compared to the number of "buckets",
 ## HashMap Methods
 
 Basics:
+* get(key): Return "value" associated with "key"
+* getOrDefault(key, defaultVal): Return "value" associated with "key", if "key" is absent then return "defaultVal"
 * put(key,val): Insert into HashMap
 * putAll(map): Put map into another map, replace any duplicate keys
 * remove(key): Remove element with specified "key"
 * remove(key, val): Remove only if (key, val) both match
-* get(key): Return "value" associated with "key"
 * containsKey(key): Return true if map has key
 * containsValue(val): Return true if map has val
+
 
 Traversal:
 * keySet(): Return a set of keys
