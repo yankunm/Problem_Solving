@@ -2,6 +2,50 @@
 
 When the number of elements stored is small compared to the number of "buckets", hashing shines with its search efficiency.
 
+## HashMap Methods
+
+Basics:
+* get(key): Return "value" associated with "key"
+* getOrDefault(key, defaultVal): Return "value" associated with "key", if "key" is absent then return "defaultVal"
+* put(key,val): Insert into HashMap
+* putAll(map): Put map into another map, replace any duplicate keys
+* remove(key): Remove element with specified "key"
+* remove(key, val): Remove only if (key, val) both match
+* containsKey(key): Return true if map has key
+* containsValue(val): Return true if map has val
+
+
+Traversal:
+* keySet(): Return a set of keys
+* values(): Return a set of values
+* entrySet(): Return a set of Map.Entry objects
+* getKey(): Get key on a Map.Entry object
+* getValue(): Get value on a Map.Entry object
+* replace(key, val): Replace key's value with "val", return null if key not found
+
+## Hash Table Template
+
+* **HashMap** - Array + Linked List (chaining, data needs equals() and hashCode() methods)
+* **LinkedHashMap** - HashMap with order (key insertion order), stores all keys in a doubly linked list (large overhead)
+* **TreeMap** - Map with order (smallest-to-biggest), stores all keys in red-black tree (O(log n))
+* **HashSet** - A HashMap without *value*, only *keys*
+
+Hash Table is affected by two things: *Initial Capacity* and *Load Factor*
+
+**Initial Capacity** - how many buckets are there in the beginning
+**Load Factor** - A Limit on when to resize
+
+When the number of things in the hash table reaches *Load Factor times capacity*, the capacity is doubled. 
+
+For example, if the load factor is 0.5, and the capacity of the hash table is 10. When the number of things reaches 5, the hash table must be **rehashed** to a table size of 20. 
+
+Default Load Factor = 0.75
+
+**The Load Factor controls the tradeoff between TIME and SPACE**
+
+More load factor --> more things to put --> more collisions --> lookup time slows down <br>
+Less Load Factor --> more space to put things --> too much wasted empty space <br>
+
 ## Hash Functions
 
 A **hash function** maps a *key* to a *bucket*. 

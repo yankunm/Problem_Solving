@@ -14,13 +14,13 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
 ## BFS***
-101. Symmetric Tree <br>
+TODO: 101. Symmetric Tree <br>
+[111. Minimum Depth of a Binary Tree](https://github.com/yankunm/LeetCode/tree/main/BFS/111.MinimumDepthOfBinaryTree) (Easy) <br>
 [102. Binary Tree Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/BFS/102.BinaryTreeLevelOrderTraversal) (Medium)<br>
-103. Binary Tree Zigzag Level Order Traversal <br>
-104. Maximum Depth of Binary Tree <br>
-111. Minimum Depth of a Binary Tree <br>
-515. Find Largest Value in Each Tree Row <br>
-429. N-ary Tree Level Order Traversal <br>
+[103. Binary Tree Zigzag Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/BFS/103.BinaryTreeZigzagLevelOrderTraversal) (Medium) <br>
+[104. Maximum Depth of Binary Tree](https://github.com/yankunm/LeetCode/tree/main/BFS/104.MaximumDepthOfBinaryTree) (Medium) <br>
+[515. Find Largest Value in Each Tree Row](https://github.com/yankunm/LeetCode/tree/main/BFS/515.FindLargestValueInEachTreeRow) (Medium) <br>
+[429. N-ary Tree Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/BFS/429.N-aryTreeLevelOrderTraversal) (Medium) <br>
 
 ### Multi State
 ### Topological sort
@@ -28,16 +28,38 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 ### Dijkstra (for Bipartite Graph)
 
 ## DFS***
-98. Validate Binary Search Tree <br>
-110. Balanced Binary Tree <br>
-113. Path Sum II <br>
-236. Lowest Common Ancestor of a Binary Tree <br>
-450. Delete Node in a BST <br>
-508. Most Frequent Subtree Sum <br>
+TODO: 98. Validate Binary Search Tree <br>
+TODO: 110. Balanced Binary Tree <br>
+TODO: 113. Path Sum II <br>
+TODO: 236. Lowest Common Ancestor of a Binary Tree <br>
+TODO: 450. Delete Node in a BST <br>
+[508. Most Frequent Subtree Sum](https://github.com/yankunm/LeetCode/tree/main/DFS/508.MostFrequentSubtreeSum) (Medium) <br>
 
 ### Search in an array
 ### Memorization
 ### Hidden Matrix
+
+## Graph**
+[542. 01 Matrix](https://github.com/yankunm/LeetCode/tree/main/Graph/542.01Matrix) (Medium) <br>
+[127. Word Ladder](https://github.com/yankunm/LeetCode/tree/main/Graph/127.WordLadder) (Hard) <br>
+TODO: 934. Shortest Bridge <br>
+TODO: 310. Minimum Height Trees <br>
+TODO: 1091. Shortest Path in Binary Matrix <br>
+TODO: 994. Rotting Oranges <br>
+TODO: 863. All Nodes Distance K in Binary Tree <br>
+TODO: 317. Shortest Distance from All Buildings <br>
+TODO: 200. Number of Islands (Medium) <br>
+TODO: 417. Pacific Atlantic Water Flow (Medium) <br>
+TODO: 695. Max Area of Island (Medium) <br>
+TODO: 1020. Number of Enclaves (Medium) <br>
+TODO: 1254. Number of Closed Islands (Medium) <br>
+
+### Floyd
+### Hungarian Algorithm
+
+## Heap**
+347，253，295，767，703.
+### Maintain Intervals
 
 ## Hash Table***
 ### Hash + Prefix
@@ -156,12 +178,7 @@ TODO: 22. Generate Parentheses <br>
 ### KMP
 ### Manacher
 
-## Heap**
-### Maintain Intervals
 
-## Graph**
-### Floyd
-### Hungarian Algorithm
 
 ## Priority Queue**
 ### Greedy 
