@@ -18,7 +18,7 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 ### Maintain Intervals
 
 ## Hash Table***
-[1. Two Sum]() (Easy) <br>
+[1. Two Sum](https://github.com/yankunm/LeetCode/tree/main/HashMap/1.TwoSum) (Easy) <br>
 [560. Subarray Sum Equals K]() (Medium) <br>
 3, 49, 138, 340, 554, 535.
 ### Hash + Prefix
