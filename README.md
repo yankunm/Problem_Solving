@@ -13,6 +13,16 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
+## Heap**
+347，253，295，767，703.
+### Maintain Intervals
+
+## Hash Table***
+[1. Two Sum](https://github.com/yankunm/LeetCode/tree/main/HashMap/1.TwoSum) (Easy) <br>
+[560. Subarray Sum Equals K](https://github.com/yankunm/LeetCode/tree/main/HashMap/560.SubarraySumEqualsK) (Medium) <br>
+3, 49, 138, 340, 554, 535.
+### Hash + Prefix
+
 ## BFS***
 TODO: 101. Symmetric Tree <br>
 [111. Minimum Depth of a Binary Tree](https://github.com/yankunm/LeetCode/tree/main/BFS/111.MinimumDepthOfBinaryTree) (Easy) <br>
@@ -57,12 +67,7 @@ TODO: 1254. Number of Closed Islands (Medium) <br>
 ### Floyd
 ### Hungarian Algorithm
 
-## Heap**
-347，253，295，767，703.
-### Maintain Intervals
 
-## Hash Table***
-### Hash + Prefix
 
 
 ## [Two Pointers](https://github.com/yankunm/LeetCode/tree/main/TwoPointers)***
