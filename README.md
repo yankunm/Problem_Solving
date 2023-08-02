@@ -21,9 +21,10 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 
 ## Hash Table***
 [1. Two Sum](https://github.com/yankunm/LeetCode/tree/main/HashMap/1.TwoSum) (Easy) <br>
-[560. Subarray Sum Equals K](https://github.com/yankunm/LeetCode/tree/main/HashMap/560.SubarraySumEqualsK) (Medium) <br>
 [138. Copy List with Random Pointer](https://github.com/yankunm/LeetCode/tree/main/HashMap/138.CopyListWithRandomPointer) (Medium) <br>
 3, 49, 340, 554, 535.
+### Sliding Window
+[560. Subarray Sum Equals K](https://github.com/yankunm/LeetCode/tree/main/HashMap/560.SubarraySumEqualsK) (Medium) <br>
 ### Hash + Prefix
 
 ## BFS***
@@ -83,7 +84,6 @@ TODO: 1254. Number of Closed Islands (Medium) <br>
 TODO: 42. Trapping Rain Water <br>
 TODO: 80. Remove Duplicates From Sorted Array II <br>
 
-### Sliding Window
 ### Sliding Window : Distinct Characters
 ### Two Pointers for two sequences
 
