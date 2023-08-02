@@ -62,6 +62,9 @@ TODO: 1254. Number of Closed Islands (Medium) <br>
 ### Maintain Intervals
 
 ## Hash Table***
+[1. Two Sum]() (Easy) <br>
+[560. Subarray Sum Equals K]() (Medium) <br>
+3, 49, 138, 340, 554, 535.
 ### Hash + Prefix
 
 
