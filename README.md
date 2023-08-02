@@ -14,13 +14,17 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
 ## Heap**
+[215. Kth Largest Element in an Array](https://github.com/yankunm/LeetCode/tree/main/Heap/215.KthLargestElementInAnArray) (Medium) <br>
+[23. Merge K Sorted Lists](https://github.com/yankunm/LeetCode/tree/main/Heap/23.MergeKSortedLists) (Hard) <br>
 347，253，295，767，703.
 ### Maintain Intervals
 
 ## Hash Table***
 [1. Two Sum](https://github.com/yankunm/LeetCode/tree/main/HashMap/1.TwoSum) (Easy) <br>
+[138. Copy List with Random Pointer](https://github.com/yankunm/LeetCode/tree/main/HashMap/138.CopyListWithRandomPointer) (Medium) <br>
+3, 49, 340, 554, 535.
+### Sliding Window
 [560. Subarray Sum Equals K](https://github.com/yankunm/LeetCode/tree/main/HashMap/560.SubarraySumEqualsK) (Medium) <br>
-3, 49, 138, 340, 554, 535.
 ### Hash + Prefix
 
 ## BFS***
@@ -80,7 +84,6 @@ TODO: 1254. Number of Closed Islands (Medium) <br>
 TODO: 42. Trapping Rain Water <br>
 TODO: 80. Remove Duplicates From Sorted Array II <br>
 
-### Sliding Window
 ### Sliding Window : Distinct Characters
 ### Two Pointers for two sequences
 
