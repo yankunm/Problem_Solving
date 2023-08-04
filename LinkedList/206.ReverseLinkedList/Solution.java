@@ -10,13 +10,18 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head){
-        if(head == null || head.next == null) 
-            return head;
+        // Base Case
+        if(head == null || head.next == null) return head;
 
-        ListNode reversed = reverseList(head.next);
+        // Get Subproblem result to pass back
+        ListNode reversedListHead = reverseList(head.next);
+
+        // Do work at current level 
         head.next.next = head;
         head.next = null;
-        return reversed;
+        
+        // Pass back subproblem result
+        return reversedListHead;
     }
 }
 
