@@ -50,7 +50,7 @@ Most famous algorithm to find the shortest path in a weighted graph: **Dijsktra'
 Time: O((V + E) log V) <br>
 Space: O(V) <br>
 
-Best-First Search High Level Idea: <br>
+Best-First Search Dijsktra High Level Idea: <br>
 1. Initialize **Heap** with all starting points marked with some initial cost, a **HashSet** to record visited values. <br>
 2. While Heap is not empty: <br>
    a. Poll out one node <br>
