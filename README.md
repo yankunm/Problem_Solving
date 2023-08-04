@@ -56,6 +56,7 @@ TODO: 450. Delete Node in a BST <br>
 ## Graph**
 [542. 01 Matrix](https://github.com/yankunm/LeetCode/tree/main/Graph/542.01Matrix) (Medium) <br>
 [127. Word Ladder](https://github.com/yankunm/LeetCode/tree/main/Graph/127.WordLadder) (Hard) <br>
+TODO: 787. Cheapest Flights within K Stops (Medium) <br>
 TODO: 934. Shortest Bridge <br>
 TODO: 310. Minimum Height Trees <br>
 TODO: 1091. Shortest Path in Binary Matrix <br>
@@ -67,6 +68,10 @@ TODO: 417. Pacific Atlantic Water Flow (Medium) <br>
 TODO: 695. Max Area of Island (Medium) <br>
 TODO: 1020. Number of Enclaves (Medium) <br>
 TODO: 1254. Number of Closed Islands (Medium) <br>
+TODO: 264. Ugly Number II <br>
+TODO: 373. Find K Pairs with Smallest Sums <br>
+TODO: 778. Swim in Rising Water <br>
+TODO: 378. Kth SmallestElementInASortedMatrix <br>
 
 ### Floyd
 ### Hungarian Algorithm
