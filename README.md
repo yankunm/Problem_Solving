@@ -56,7 +56,9 @@ TODO: 450. Delete Node in a BST <br>
 ## Graph**
 [542. 01 Matrix](https://github.com/yankunm/LeetCode/tree/main/Graph/542.01Matrix) (Medium) <br>
 [200. Number of Islands](https://github.com/yankunm/LeetCode/tree/main/Graph/200.NuberOfIslands) (Medium) <br>
+[743. Network Delay Time](https://github.com/yankunm/LeetCode/tree/main/Graph/743.NetworkDelayTime) (Medium) <br>
 [127. Word Ladder](https://github.com/yankunm/LeetCode/tree/main/Graph/127.WordLadder) (Hard) <br>
+
 TODO: 787. Cheapest Flights within K Stops (Medium) <br>
 TODO: 934. Shortest Bridge <br>
 TODO: 310. Minimum Height Trees <br>
