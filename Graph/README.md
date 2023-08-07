@@ -72,7 +72,7 @@ Go deep to the end of one route, recurse back to the starting point, and go deep
    c. For each neighbor node: <br>
       1. *Validate neighbor node* (if not valid or visited then return) <br>
       2. Recurse down on neighbor node <br>
-   d. **Do Something (Post-order)** <br>
+d. **Do Something (Post-order)** <br>
 
 
 
