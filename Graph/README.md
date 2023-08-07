@@ -57,7 +57,22 @@ Best-First Search Dijsktra High Level Idea: <br>
    b. If it has already been expanded, skip it <br>
    c. Otherwise mark the node as visited, update its cost <br>
    d. If this is the detination node, return <br>
-   e. For all of its neighbors, offer them into the heap with current node's cost + edge cost 
+   e. For all of its neighbors, offer them into the heap with current node's cost + edge cost
+
+## Graph DFS
+
+Go deep to the end of one route, recurse back to the starting point, and go deep to the end of another route.
+
+### DFS High Level Idea
+
+1. Initialize HashSet to record visited nodes <br>
+2. For all entry nodes, call dfs(): <br>
+   a. *Validate current node* (if not valid or visited then return) <br>
+   b. **Do Something (Pre-order)** <br>
+   c. For each neighbor node: <br>
+      1. *Validate neighbor node* (if not valid or visited then return) <br>
+      2. Recurse down on neighbor node <br>
+   d. **Do Something (Post-order)** <br>
 
 
 
