@@ -72,7 +72,11 @@ TODO: 1254. Number of Closed Islands (Medium) <br>
 TODO: 264. Ugly Number II <br>
 TODO: 373. Find K Pairs with Smallest Sums <br>
 TODO: 778. Swim in Rising Water <br>
-TODO: 378. Kth SmallestElementInASortedMatrix <br>
+TODO: 378. Kth Smallest Element In A Sorted Matrix <br>
+TODO: 133. Clone Graph <br>
+TODO: 399. Evaluate Division <br>
+TODO: 785. Is Graph Bipartite <br>
+TODO: 841. Keys and Rooms <br>
 
 ### Floyd
 ### Hungarian Algorithm
