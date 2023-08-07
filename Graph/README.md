@@ -63,6 +63,8 @@ Best-First Search Dijsktra High Level Idea: <br>
 
 Go deep to the end of one route, recurse back to the starting point, and go deep to the end of another route.
 
+Time: O(N * k) *(k is the time taken to do work on one node)*
+
 ### DFS High Level Idea
 
 1. Initialize HashSet to record visited nodes <br>
