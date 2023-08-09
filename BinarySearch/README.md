@@ -16,5 +16,15 @@ When we design search algorithms, we must follow these two rules: <br>
 1. *Shrink* the search space at every iteration/state <br>
 2. Cannot exlude any potential answers for each *Shrinking* <br>
 
+## Looking for an Explcit Value
+
+1. while **l <= r**: <br>
+  a. Extract mid *correctly* <br>
+  b. Manipulate pointers: **l = mid + 1 OR r = mid - 1**
+
+## Looking for an Implicit Value
+
+## Looking for any value could work
+
 
   
