@@ -18,11 +18,16 @@ When we design search algorithms, we must follow these two rules: <br>
 
 ## Looking for an Explcit Value
 
-1. while **l <= r**: <br>
+while **l <= r**: <br>
   a. Extract mid *correctly* <br>
   b. Manipulate pointers: **l = mid + 1 OR r = mid - 1**
 
 ## Looking for an Implicit Value
+
+while **l < r**: <br>
+  a. Extract mid *correctly* <br>
+  b. Manipulate pointers: **l = mid OR r = mid - 1** <br>
+    OR Manipulate pointers: **l = mid + 1 OR r = mid**
 
 ## Looking for any value could work
 
