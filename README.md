@@ -13,6 +13,23 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
+## Dynamic Programming**
+### Basic Form I
+### Basic Form II
+### Maze Form
+### Backpack Form
+### Keyboard Form
+### To do or not to do
+### Interval Form I
+### Interval Form II
+### Padawan Algorithm
+### Bitmask DP
+#### Enumerating subset
+#### Bipartite Graph
+#### TSP
+### Catalan
+TODO: 96. Unique Binary Search Trees <br>
+
 ## Heap**
 [215. Kth Largest Element in an Array](https://github.com/yankunm/LeetCode/tree/main/Heap/215.KthLargestElementInAnArray) (Medium) <br>
 [23. Merge K Sorted Lists](https://github.com/yankunm/LeetCode/tree/main/Heap/23.MergeKSortedLists) (Hard) <br>
@@ -80,9 +97,6 @@ TODO: 841. Keys and Rooms <br>
 
 ### Floyd
 ### Hungarian Algorithm
-
-
-
 
 ## [Two Pointers](https://github.com/yankunm/LeetCode/tree/main/TwoPointers)***
 
@@ -196,8 +210,6 @@ TODO: 22. Generate Parentheses <br>
 ### KMP
 ### Manacher
 
-
-
 ## Priority Queue**
 ### Greedy 
 ### Dual PQ
@@ -208,23 +220,6 @@ TODO: 22. Generate Parentheses <br>
 ### Linked List
 
 ## Deque**
-
-## Dynamic Programming**
-### Basic Form I
-### Basic Form II
-### Maze Form
-### Backpack Form
-### Keyboard Form
-### To do or not to do
-### Interval Form I
-### Interval Form II
-### Padawan Algorithm
-### Bitmask DP
-#### Enumerating subset
-#### Bipartite Graph
-#### TSP
-### Catalan
-TODO: 96. Unique Binary Search Trees <br>
 
 ### Permutation
 ### Infer future from current
