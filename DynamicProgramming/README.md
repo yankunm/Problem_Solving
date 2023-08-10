@@ -24,4 +24,4 @@ The time complexity of the search problenm depends on: <br>
 2. For each subproblem x: <br>
    a. Update *state* <br>
    b. Call dfs on next state (branch down) <br>
-   c. Restore *state* <br>
+   c. **Restore *state*** <br>
