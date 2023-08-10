@@ -11,3 +11,17 @@ The time complexity of the search problenm depends on: <br>
 2. The number of children of each node
 
 **The most important part of all search problem, or any dynamic programming problem, is to define your *state* well. Make sure every subproblem can be described as a *state*.**
+
+
+## Top Down DFS
+
+1. Define STATE of subproblems
+2. Initialize Initial State
+3. Call dfs on Initial State
+
+**dfs High Level Idea**:
+1. Base Case
+2. For each subproblem x:
+   a. Update *state*
+   b. Call dfs on next state (branch down)
+   c. Restore *state*
