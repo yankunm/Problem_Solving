@@ -15,13 +15,13 @@ The time complexity of the search problenm depends on: <br>
 
 ## Top Down DFS
 
-1. Define STATE of subproblems
-2. Initialize Initial State
-3. Call dfs on Initial State
+1. Define STATE of subproblems<br>
+2. Initialize Initial State<br>
+3. Call dfs on Initial State<br>
 
-**dfs High Level Idea**:
-1. Base Case
-2. For each subproblem x:
-   a. Update *state*
-   b. Call dfs on next state (branch down)
-   c. Restore *state*
+**dfs High Level Idea**: 
+1. Base Case <br>
+2. For each subproblem x: <br>
+   a. Update *state* <br>
+   b. Call dfs on next state (branch down) <br>
+   c. Restore *state* <br>
