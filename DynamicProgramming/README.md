@@ -25,3 +25,14 @@ The time complexity of the search problenm depends on: <br>
    a. Update *state* <br>
    b. Call dfs on next state (branch down) <br>
    c. **Restore *state*** <br>
+
+**ex. Subsets**
+
+After drawing out search space, I would like my base case to be once I am at a leaf node, add that subset to my answer.
+
+For this, I would need a **traverser/index/level** to keep track of at *which level of the search space tree* am I in. **Lets call that k**
+
+Therefore, for each subproblem I have a current state consisting of **the current subset appearance** and the **index for that state**.
+
+This is the magic of search problems. We defined a state ourselves using our brain, formed a tree, and traversed that tree.
+
