@@ -73,10 +73,10 @@ TODO: 84. Largest Rectangle in Histogram <br>
 ### Maintain Intervals
 -->
 
-## [Hash Table](https://github.com/yankunm/LeetCode/tree/main/src/HashMap)
-(8/2/2023) [1. Two Sum](https://github.com/yankunm/LeetCode/tree/main/src/HashMap/1.TwoSum) (Easy) <br>
-(8/2/2023) [138. Copy List with Random Pointer](https://github.com/yankunm/LeetCode/tree/main/src/HashMap/138.CopyListWithRandomPointer) (Medium) <br>
-(8/2/2023) [3.Longest Substring Without Repeating Characters](https://github.com/yankunm/LeetCode/tree/main/src/HashMap/3.LongestSubstringWithoutRepeatingCharacters) (Medium) <br>
+## [Hash Table](https://github.com/yankunm/LeetCode/tree/main/src/HashTable)
+(8/2/2023) [1. Two Sum](https://github.com/yankunm/LeetCode/tree/main/src/HashTable/1.TwoSum) (Easy) <br>
+(8/2/2023) [138. Copy List with Random Pointer](https://github.com/yankunm/LeetCode/tree/main/src/HashTable/138.CopyListWithRandomPointer) (Medium) <br>
+(8/2/2023) [3.Longest Substring Without Repeating Characters](https://github.com/yankunm/LeetCode/tree/main/src/HashTable/3.LongestSubstringWithoutRepeatingCharacters) (Medium) <br>
 49, 340, 554, 535.
 
 <!---
