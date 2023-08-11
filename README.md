@@ -13,7 +13,7 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
-**The 14 Patterns:** <br>
+**The 14 Patterns:**
 1. Sliding Window
 2. Two Pointers or Iterators
 3. Fast and Slow Pointers
