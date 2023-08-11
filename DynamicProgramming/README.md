@@ -76,3 +76,5 @@ For Array DP Problems, It's usually one of two categories: <br>
 1. **1D Problem**: index i or problem length --> dp[3] represents answer for arr[0,3)
 2. **2D Problem**: indexes i, j --> dp[3, 5] represents answer for arr[3, 5)
 
+**TIP: Consider if 1D is possible first, if not then increase dimensions.**
+
