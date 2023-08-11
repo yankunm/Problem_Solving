@@ -60,7 +60,14 @@ Note: When analyzing your **search space**, always draw a **Tree**. **the tree w
 
 1. Return STATE of subproblem
 2. Initialize memo (record calculated subproblems)
-3. Return dfs(top_level_answer_state)
+3. Return dfs(*top_level_answer_state*)
 
 **Note: We use the *top_level_answer_state* as input to our dfs cause that's what we are interested in, and dfs will construct answer for that**
+
+**dfs(top_state) High Level Idea:**
+1. Base Case Check
+2. If *current answer* was calculated, return it
+3. Transition Rule (Ask subproblem answer, use that to construct *current answer*)
+4. Store *current answer* for parent problem / user
+
 
