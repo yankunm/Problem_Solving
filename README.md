@@ -15,7 +15,7 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 
 ## Dynamic Programming**
 [78. Subsets](https://github.com/yankunm/LeetCode/tree/main/DynamicProgramming/78.Subsets) (Medium) <br>
-[139. Word Break]() (Medium) <br>
+[139. Word Break](https://github.com/yankunm/LeetCode/tree/main/DynamicProgramming/139.WordBreak) (Medium) <br>
 TODO: 22. Generate Parentheses <br>
 TODO: 35. Maximum Subarray <br>
 TODO: 70. Climbing Stairs <br>
