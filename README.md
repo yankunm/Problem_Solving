@@ -13,6 +13,31 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
+**The 14 Patterns:**
+1. [Sliding Window](https://leetcode.com/discuss/study-guide/1773891/Sliding-Window-Technique-and-Question-Bank)
+2. Two Pointers or Iterators
+3. Fast and Slow Pointers
+4. Merge Intervals
+5. Cyclic Sort
+6. In-place Reversal of Linked List
+7. Tree BFS
+8. Tree DFS
+9. Two Heaps
+10. Subsets
+11. Modified Binary Search
+12. Top K Elements
+13. K-Way Merge
+14. Topological Sort
+
+**Problems for 8/11/2023:** <br>
+42. Trapping Rain Water <br>
+252. Meeting Rooms I <br>
+253. Meeting Rooms II <br>
+450. Delete Node in a BST <br>
+236. Lowest Common Ancestor of a Binary Tree <br>
+133. Clone Graph <br>
+785. Is Graph Bipartite <br>
+
 ## [Two Pointers](https://github.com/yankunm/LeetCode/tree/main/src/TwoPointers)
  (7/20/2023) [11. Container With Most Water](https://github.com/yankunm/LeetCode/tree/main/src/TwoPointers/11.ContainerWithMostWater) (Medium) <br>
  (7/20/2023) [26. Remove Duplicates from Sorted Array](https://github.com/yankunm/LeetCode/tree/main/src/TwoPointers/26.RemoveDuplicatesFromSortedArray) (Easy)<br>
@@ -143,9 +168,9 @@ TODO: 695. Max Area of Island (Medium) <br>
 TODO: 1020. Number of Enclaves (Medium) <br>
 TODO: 1254. Number of Closed Islands (Medium) <br>
 
-### BFS
-(7/28/2023) [542. 01 Matrix](https://github.com/yankunm/LeetCode/tree/main/src/Graph/542.01Matrix) (Medium) <br>
-(7/28/2023) [127. Word Ladder](https://github.com/yankunm/LeetCode/tree/main/src/Graph/127.WordLadder) (Hard) <br>
+### [BFS](https://github.com/yankunm/LeetCode/tree/main/src/Graph/BFS)
+(7/28/2023) [542. 01 Matrix](https://github.com/yankunm/LeetCode/tree/main/src/Graph/BFS/542.01Matrix) (Medium) <br>
+(7/28/2023) [127. Word Ladder](https://github.com/yankunm/LeetCode/tree/main/src/Graph/BFS/127.WordLadder) (Hard) <br>
 TODO: 934. Shortest Bridge <br>
 TODO: 310. Minimum Height Trees <br>
 TODO: 1091. Shortest Path in Binary Matrix <br>
@@ -153,18 +178,18 @@ TODO: 994. Rotting Oranges <br>
 TODO: 863. All Nodes Distance K in Binary Tree <br>
 TODO: 317. Shortest Distance from All Buildings <br>
 
-### BestFS
-(8/4/2023) [743. Network Delay Time](https://github.com/yankunm/LeetCode/tree/main/src/Graph/743.NetworkDelayTime) (Medium) <br>
-(8/4/2023) [787. Cheapest Flights within K Stops](https://github.com/yankunm/LeetCode/tree/main/src/Graph/787.CheapestFlightsWithinKStops) (Medium) <br>
+### [BestFS](https://github.com/yankunm/LeetCode/tree/main/src/Graph/BestFS)
+(8/4/2023) [743. Network Delay Time](https://github.com/yankunm/LeetCode/tree/main/src/Graph/BestFS/743.NetworkDelayTime) (Medium) <br>
+(8/4/2023) [787. Cheapest Flights within K Stops](https://github.com/yankunm/LeetCode/tree/main/src/Graph/BestFS/787.CheapestFlightsWithinKStops) (Medium) <br>
 TODO: 264. Ugly Number II <br>
 TODO: 373. Find K Pairs with Smallest Sums <br>
 TODO: 778. Swim in Rising Water <br>
 TODO: 378. Kth Smallest Element In A Sorted Matrix <br>
 
 
-### DFS
-(8/7/2023) [200. Number of Islands](https://github.com/yankunm/LeetCode/tree/main/src/Graph/200.NuberOfIslands) (Medium) <br>
-(8/7/2023) [332.Reconstruct Itinerary](https://github.com/yankunm/LeetCode/tree/main/src/Graph/332.ReconstructItinerary) (Medium) <br>
+### [DFS](https://github.com/yankunm/LeetCode/tree/main/src/Graph/DFS)
+(8/7/2023) [200. Number of Islands](https://github.com/yankunm/LeetCode/tree/main/src/Graph/DFS/200.NuberOfIslands) (Medium) <br>
+(8/7/2023) [332.Reconstruct Itinerary](https://github.com/yankunm/LeetCode/tree/main/src/Graph/DFS/332.ReconstructItinerary) (Medium) <br>
 TODO: 133. Clone Graph <br>
 TODO: 399. Evaluate Division <br>
 TODO: 785. Is Graph Bipartite <br>
@@ -175,7 +200,7 @@ TODO: 841. Keys and Rooms <br>
 ### Hungarian Algorithm
 -->
 
-## Dynamic Programming**
+## [Dynamic Programming](https://github.com/yankunm/LeetCode/tree/main/src/DynamicProgramming)
 (8/10/2023) [78. Subsets](https://github.com/yankunm/LeetCode/tree/main/src/DynamicProgramming/78.Subsets) (Medium) <br>
 (8/10/2023) [139. Word Break](https://github.com/yankunm/LeetCode/tree/main/src/DynamicProgramming/139.WordBreak) (Medium) <br>
 TODO: 22. Generate Parentheses <br>
@@ -184,6 +209,7 @@ TODO: 70. Climbing Stairs <br>
 TODO: 90. Subsets II <br>
 TODO: 332. Coin Change <br>
 TODO: 746. Min Cost Climbing Stairs <br>
+TODO: 96. Unique Binary Search Trees <br>
 <!---
 ### Basic Form I
 ### Basic Form II
@@ -200,10 +226,9 @@ TODO: 746. Min Cost Climbing Stairs <br>
 #### TSP
 ### Catalan
 -->
-TODO: 96. Unique Binary Search Trees <br>
 
 
-## Backtracking***
+## [Backtracking](https://github.com/yankunm/LeetCode/tree/main/src/Backtracking)
 TODO: 78. Subsets <br>
 TODO: 77. Combinations <br>
 TODO: 46. Permutations <br>
@@ -222,12 +247,13 @@ TODO: 22. Generate Parentheses <br>
 -->
 
 
-## Recursion (Basics)***
+## [Recursion D\&C](https://github.com/yankunm/LeetCode/tree/main/src/Recursion)
 (7/23/2023) [344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/src/Recursion/344.ReverseString) (Easy) <br>
 (7/23/2023) [24. Swap Nodes in Pairs](https://github.com/yankunm/LeetCode/tree/main/src/Recursion/24.SwapNodesInPairs) (Medium) <br>
+(7/24/2023) [50. Pow(x, n)](https://github.com/yankunm/LeetCode/tree/main/src/Recursion/50.Pow) (Medium) <br>
+TODO: 912. Sort an Array <br>
 TODO: 118. Pascal's Triangle <br>
 TODO: 119. Pascal's Triangle II <br>
-TODO: 50. Pow(x, n) <br>
 TODO: 779. K-th Symbol in Grammar <br>
 TODO: 509. Fibonacci Number <br>
 TODO: 70. Climbing Stairs <br>
@@ -237,10 +263,6 @@ TODO: 70. Climbing Stairs <br>
 ### Min-Max Strategy
 ### Digit counting & finding
 -->
-
-## Divide-and-Conquer***
-TODO: 912. Sort an Array <br>
-
 
 <!---
 ## Priority Queue**
@@ -300,7 +322,7 @@ TODO: 912. Sort an Array <br>
 ### Conclusion Transfer
 ### Count Subarray by Element
 ### Sweeping Line / Diff Array
--->
+
 
 ### 2D Diff
 ### Enumeration
@@ -308,3 +330,4 @@ TODO: 912. Sort an Array <br>
 ### 2D Presum
 ### Quickselect
 ### Digital Computing
+-->
