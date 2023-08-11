@@ -13,12 +13,12 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
-## [Two Pointers](https://github.com/yankunm/LeetCode/tree/main/TwoPointers)
- (7/20/2023) [11. Container With Most Water](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/11.ContainerWithMostWater) (Medium) <br>
- (7/20/2023) [26. Remove Duplicates from Sorted Array](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/26.RemoveDuplicatesFromSortedArray) (Easy)<br>
- (7/20/2023) [344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/344.ReverseString) (Easy) <br>
- (7/21/2023) [283. Move Zeros](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/283.MoveZeroes) (Easy)<br>
- (7/22/2023) [1047. Remove All Adjacent Duplicates In String](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/1047.RemoveAllAdjacentDuplicatesInString) (Easy) <br>
+## [Two Pointers](https://github.com/yankunm/LeetCode/tree/main/src/TwoPointers)
+ (7/20/2023) [11. Container With Most Water](https://github.com/yankunm/LeetCode/tree/main/src/TwoPointers/11.ContainerWithMostWater) (Medium) <br>
+ (7/20/2023) [26. Remove Duplicates from Sorted Array](https://github.com/yankunm/LeetCode/tree/main/src/TwoPointers/26.RemoveDuplicatesFromSortedArray) (Easy)<br>
+ (7/20/2023) [344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/src/TwoPointers/344.ReverseString) (Easy) <br>
+ (7/21/2023) [283. Move Zeros](https://github.com/yankunm/LeetCode/tree/main/src/TwoPointers/283.MoveZeroes) (Easy)<br>
+ (7/22/2023) [1047. Remove All Adjacent Duplicates In String](https://github.com/yankunm/LeetCode/tree/main/src/TwoPointers/1047.RemoveAllAdjacentDuplicatesInString) (Easy) <br>
 TODO: 42. Trapping Rain Water <br>
 TODO: 80. Remove Duplicates From Sorted Array II <br>
 <!---
@@ -26,8 +26,11 @@ TODO: 80. Remove Duplicates From Sorted Array II <br>
 ### Two Pointers for two sequences
 -->
 
-## [Binary Search](https://github.com/yankunm/LeetCode/tree/main/BinarySearch)
-(7/18/2023) [33. Search in Rotated Sorted Array](https://github.com/yankunm/LeetCode/tree/main/BinarySearch/33.SearchInRotatedSortedArray) (Medium) <br>
+## Sliding Window
+(8/2/2023) [560. Subarray Sum Equals K](https://github.com/yankunm/LeetCode/tree/main/src/HashMap/560.SubarraySumEqualsK) (Medium) (8/2/2023) <br>
+
+## [Binary Search](https://github.com/yankunm/LeetCode/tree/main/src/BinarySearch)
+(7/18/2023) [33. Search in Rotated Sorted Array](https://github.com/yankunm/LeetCode/tree/main/src/BinarySearch/33.SearchInRotatedSortedArray) (Medium) <br>
 TODO: 74. Search a 2D Matrix <br>
 <!---
 ### Binary Processing
@@ -35,22 +38,22 @@ TODO: 74. Search a 2D Matrix <br>
 #### Find K-th Element
 -->
 
-## [Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList)
-(7/21/2023) [876. Middle Of The Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList/876.MiddleOfTheLinkedList) (Easy) <br>
-(7/22/2023) [19. Remove Nth Node From End Of List](https://github.com/yankunm/LeetCode/tree/main/LinkedList/19.RemoveNthNodeFromEndOfList) (Medium) <br>
-(8/4/2023) [206. Reverse Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList/206.ReverseLinkedList) (Medium) <br>
-(8/10/2023) [92. Reverse Linked List II](https://github.com/yankunm/LeetCode/tree/main/LinkedList/92.ReverseLinkedListII) (Medium) <br>
+## [Linked List](https://github.com/yankunm/LeetCode/tree/main/src/LinkedList)
+(7/21/2023) [876. Middle Of The Linked List](https://github.com/yankunm/LeetCode/tree/main/src/LinkedList/876.MiddleOfTheLinkedList) (Easy) <br>
+(7/22/2023) [19. Remove Nth Node From End Of List](https://github.com/yankunm/LeetCode/tree/main/src/LinkedList/19.RemoveNthNodeFromEndOfList) (Medium) <br>
+(8/4/2023) [206. Reverse Linked List](https://github.com/yankunm/LeetCode/tree/main/src/LinkedList/206.ReverseLinkedList) (Medium) <br>
+(8/10/2023) [92. Reverse Linked List II](https://github.com/yankunm/LeetCode/tree/main/src/LinkedList/92.ReverseLinkedListII) (Medium) <br>
 TODO: 237. Delete node in a linked list <br>
 TODO: 141. Linked List cycle <br>
 TODO: 92. Reverse Linked List II <br>
 TODO: 25. Reverse Nodes in k-Group <br>
 TODO: 21. Merge Two Sorted Lists <br>
 
-## [Stack](https://github.com/yankunm/LeetCode/tree/main/Stack)
-(7/20/2023) [20. Valid Parentheses](https://github.com/yankunm/LeetCode/tree/main/Stack/20.ValidParentheses) (Easy) <br>
-(7/20/2023) [496. Next Greater Element I](https://github.com/yankunm/LeetCode/tree/main/Stack/496.NextGreaterElementI) (Medium) <br>
-(7/20/2023) [735. Asteroid Collision](https://github.com/yankunm/LeetCode/tree/main/Stack/735.AsteroidCollision) (Medium) <br>
-(7/20/2023) [739. Daily Temperatures](https://github.com/yankunm/LeetCode/tree/main/Stack/739.DailyTemperatures) (Medium) <br>
+## [Stack](https://github.com/yankunm/LeetCode/tree/main/src/Stack)
+(7/20/2023) [20. Valid Parentheses](https://github.com/yankunm/LeetCode/tree/main/src/Stack/20.ValidParentheses) (Easy) <br>
+(7/20/2023) [496. Next Greater Element I](https://github.com/yankunm/LeetCode/tree/main/src/Stack/496.NextGreaterElementI) (Medium) <br>
+(7/20/2023) [735. Asteroid Collision](https://github.com/yankunm/LeetCode/tree/main/src/Stack/735.AsteroidCollision) (Medium) <br>
+(7/20/2023) [739. Daily Temperatures](https://github.com/yankunm/LeetCode/tree/main/src/Stack/739.DailyTemperatures) (Medium) <br>
 TODO: 503. Next Greater Element II <br>
 TODO: 394. Decode String <br>
 TODO: 636. Exclusive Time of Functions <br>
@@ -62,33 +65,31 @@ TODO: 84. Largest Rectangle in Histogram <br>
 ### parse expression
 -->
 
-## [Heap](https://github.com/yankunm/LeetCode/tree/main/Heap)
-(7/31/2023) [215. Kth Largest Element in an Array](https://github.com/yankunm/LeetCode/tree/main/Heap/215.KthLargestElementInAnArray) (Medium) <br>
-(7/31/2023) [23. Merge K Sorted Lists](https://github.com/yankunm/LeetCode/tree/main/Heap/23.MergeKSortedLists) (Hard) <br>
+## [Heap](https://github.com/yankunm/LeetCode/tree/main/src/Heap)
+(7/31/2023) [215. Kth Largest Element in an Array](https://github.com/yankunm/LeetCode/tree/main/src/Heap/215.KthLargestElementInAnArray) (Medium) <br>
+(7/31/2023) [23. Merge K Sorted Lists](https://github.com/yankunm/LeetCode/tree/main/src/Heap/23.MergeKSortedLists) (Hard) <br>
 347，253，295，767，703, 218 <br>
 <!---
 ### Maintain Intervals
 -->
 
-## [Hash Table](https://github.com/yankunm/LeetCode/tree/main/HashMap)
-(8/2/2023) [1. Two Sum](https://github.com/yankunm/LeetCode/tree/main/HashMap/1.TwoSum) (Easy) <br>
-(8/2/2023) [138. Copy List with Random Pointer](https://github.com/yankunm/LeetCode/tree/main/HashMap/138.CopyListWithRandomPointer) (Medium) <br>
-(8/2/2023) [3.Longest Substring Without Repeating Characters](https://github.com/yankunm/LeetCode/tree/main/HashMap/3.LongestSubstringWithoutRepeatingCharacters) (Medium) <br>
+## [Hash Table](https://github.com/yankunm/LeetCode/tree/main/src/HashMap)
+(8/2/2023) [1. Two Sum](https://github.com/yankunm/LeetCode/tree/main/src/HashMap/1.TwoSum) (Easy) <br>
+(8/2/2023) [138. Copy List with Random Pointer](https://github.com/yankunm/LeetCode/tree/main/src/HashMap/138.CopyListWithRandomPointer) (Medium) <br>
+(8/2/2023) [3.Longest Substring Without Repeating Characters](https://github.com/yankunm/LeetCode/tree/main/src/HashMap/3.LongestSubstringWithoutRepeatingCharacters) (Medium) <br>
 49, 340, 554, 535.
-### Sliding Window
-(8/2/2023) [560. Subarray Sum Equals K](https://github.com/yankunm/LeetCode/tree/main/HashMap/560.SubarraySumEqualsK) (Medium) (8/2/2023) <br>
 
 <!---
 ### Hash + Prefix
 -->
 
-## [Tree](https://github.com/yankunm/LeetCode/tree/main/Tree)
-[270. Closest Binary Search Tree Value](https://github.com/yankunm/LeetCode/tree/main/Tree/270.%20Closest%20Binary%20Search%20Tree%20Value) (Easy) (7/16/2023) <br>
-[110. Balanced Binary Tree](https://github.com/yankunm/LeetCode/tree/main/Tree/110.BalancedBinaryTree) (Easy) (7/16/2023) <br>
-[257. Binary Tree Paths](https://github.com/yankunm/LeetCode/tree/main/Tree/257.BinaryTreePaths) (Easy) (7/18/2023)  <br>
-[938. Range Sum of BST](https://github.com/yankunm/LeetCode/tree/main/Tree/938.RangeSumOfBST) (Easy) (7/17/2023) <br>
-[222. Count Complete Tree Nodes](https://github.com/yankunm/LeetCode/tree/main/Tree/222.CountCompleteTreeNodes) (Medium) <br>
-[114. Flatten Binary Tree to Linked List](https://github.com/yankunm/LeetCode/tree/main/Tree/114.FlattenBinaryTreetoLinkedList) (Medium) <br>
+## [Tree](https://github.com/yankunm/LeetCode/tree/main/src/Tree)
+[270. Closest Binary Search Tree Value](https://github.com/yankunm/LeetCode/tree/main/src/Tree/270.%20Closest%20Binary%20Search%20Tree%20Value) (Easy) (7/16/2023) <br>
+[110. Balanced Binary Tree](https://github.com/yankunm/LeetCode/tree/main/src/Tree/110.BalancedBinaryTree) (Easy) (7/16/2023) <br>
+[257. Binary Tree Paths](https://github.com/yankunm/LeetCode/tree/main/src/Tree/257.BinaryTreePaths) (Easy) (7/18/2023)  <br>
+[938. Range Sum of BST](https://github.com/yankunm/LeetCode/tree/main/src/Tree/938.RangeSumOfBST) (Easy) (7/17/2023) <br>
+[222. Count Complete Tree Nodes](https://github.com/yankunm/LeetCode/tree/main/src/Tree/222.CountCompleteTreeNodes) (Medium) <br>
+[114. Flatten Binary Tree to Linked List](https://github.com/yankunm/LeetCode/tree/main/src/Tree/114.FlattenBinaryTreetoLinkedList) (Medium) <br>
 TODO: 95. Unique Binary Search Trees II <br>
 TODO: 98. Validate Binary Search Tree <br>
 TODO: 100. Same Tree <br>
