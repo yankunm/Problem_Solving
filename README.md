@@ -82,7 +82,7 @@ TODO: 84. Largest Rectangle in Histogram <br>
 ### Hash + Prefix
 -->
 
-## Tree***
+## [Tree](https://github.com/yankunm/LeetCode/tree/main/Tree)
 [270. Closest Binary Search Tree Value](https://github.com/yankunm/LeetCode/tree/main/Tree/270.%20Closest%20Binary%20Search%20Tree%20Value) (Easy) (7/16/2023) <br>
 [110. Balanced Binary Tree](https://github.com/yankunm/LeetCode/tree/main/Tree/110.BalancedBinaryTree) (Easy) (7/16/2023) <br>
 [257. Binary Tree Paths](https://github.com/yankunm/LeetCode/tree/main/Tree/257.BinaryTreePaths) (Easy) (7/18/2023)  <br>
