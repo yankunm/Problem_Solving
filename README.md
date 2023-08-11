@@ -47,10 +47,10 @@ TODO: 25. Reverse Nodes in k-Group <br>
 TODO: 21. Merge Two Sorted Lists <br>
 
 ## [Stack](https://github.com/yankunm/LeetCode/tree/main/Stack)
-[20. Valid Parentheses](https://github.com/yankunm/LeetCode/tree/main/Stack/20.ValidParentheses) (Easy)
-496. Next Greater Element I <br>
-[735. Asteroid Collision](https://github.com/yankunm/LeetCode/tree/main/Stack/735.AsteroidCollision) (Medium) <br>
-[739. Daily Temperatures](https://github.com/yankunm/LeetCode/tree/main/Stack/739.DailyTemperatures) (Medium) <br>
+(7/20/2023) [20. Valid Parentheses](https://github.com/yankunm/LeetCode/tree/main/Stack/20.ValidParentheses) (Easy)
+(7/20/2023) [496. Next Greater Element I](https://github.com/yankunm/LeetCode/tree/main/Stack/496.NextGreaterElementI) (Medium) <br>
+(7/20/2023) [735. Asteroid Collision](https://github.com/yankunm/LeetCode/tree/main/Stack/735.AsteroidCollision) (Medium) <br>
+(7/20/2023) [739. Daily Temperatures](https://github.com/yankunm/LeetCode/tree/main/Stack/739.DailyTemperatures) (Medium) <br>
 TODO: 503. Next Greater Element II <br>
 TODO: 394. Decode String <br>
 TODO: 636. Exclusive Time of Functions <br>
