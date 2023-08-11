@@ -10,7 +10,7 @@ When a given problem is composed of multiple subproblems, we can keep on breakin
 
 When analyzing your **search space**, always draw a **Tree**.
 
-The time complexity of the search problenm depends on: <br>
+The time complexity of the search problem depends on: <br>
 1. The depth of the search space tree
 2. The number of children of each node
 
