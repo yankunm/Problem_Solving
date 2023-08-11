@@ -192,14 +192,16 @@ TODO: 100. Same Tree <br>
 TODO: 94. Binary Tree Inorder Traversal <br>
 TODO: 426. Convert Binary Search Tree to Sorted Doubly Linked List <br>
 TODO: 700. Search in a Binary Search Tree <br>
-// ### Path in a Tree
-// ### Serialization & Hashing
-//### Tree & Sequence
-// ### LCA
-// ### N-ary Tree
-// ### Re-root
-// ### Segment Tree
-// ### Binary Index Tree
+<!---
+### Path in a Tree
+### Serialization & Hashing
+### Tree & Sequence
+### LCA
+### N-ary Tree
+### Re-root
+### Segment Tree
+### Binary Index Tree
+-->
 
 ## Backtracking***
 [78. Subsets](https://github.com/yankunm/LeetCode/tree/main/Backtracking/78.Subsets) (Medium) <br>
