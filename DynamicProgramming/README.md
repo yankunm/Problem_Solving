@@ -13,7 +13,7 @@ The time complexity of the search problenm depends on: <br>
 **The most important part of all search problem, or any dynamic programming problem, is to define your *state* well. Make sure every subproblem can be described as a *state*.**
 
 
-## Top Down DFS
+### Top Down DFS
 
 1. Define STATE of subproblems<br>
 2. Initialize Initial State<br>
@@ -37,4 +37,6 @@ For this, I would need a **traverser/index/level** to keep track of at *which le
 Therefore, for each subproblem I have a current state consisting of **the current subset appearance** and the **index for that state**.
 
 This is the magic of search problems. We defined a state ourselves using our brain, formed a tree, and traversed that tree.
+
+## Search + Memoization
 
