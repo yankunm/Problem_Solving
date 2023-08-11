@@ -52,5 +52,6 @@ Note: When analyzing your **search space**, always draw a **Tree**. **the tree w
 
 **Note: Every DP problem is a Shortest Path on a DAG problem**
 
+**MOST IMPORTANT: Always define your state well**
 
 
