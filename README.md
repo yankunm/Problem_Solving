@@ -183,8 +183,8 @@ TODO: 74. Search a 2D Matrix <br>
 ## Tree***
 [270. Closest Binary Search Tree Value](https://github.com/yankunm/LeetCode/tree/main/Tree/270.%20Closest%20Binary%20Search%20Tree%20Value) (Easy) (7/16/2023) <br>
 [110. Balanced Binary Tree](https://github.com/yankunm/LeetCode/tree/main/Tree/110.BalancedBinaryTree) (Easy) (7/16/2023) <br>
-[257. Binary Tree Paths](https://github.com/yankunm/LeetCode/tree/main/Tree/257.BinaryTreePaths) (7/18/2023) (Easy) <br>
-[938. Range Sum of BST](https://github.com/yankunm/LeetCode/tree/main/Tree/938.RangeSumOfBST) (7/17/2023) (Easy) <br>
+[257. Binary Tree Paths](https://github.com/yankunm/LeetCode/tree/main/Tree/257.BinaryTreePaths) (Easy) (7/18/2023)  <br>
+[938. Range Sum of BST](https://github.com/yankunm/LeetCode/tree/main/Tree/938.RangeSumOfBST) (Easy) (7/17/2023) <br>
 [222. Count Complete Tree Nodes](https://github.com/yankunm/LeetCode/tree/main/Tree/222.CountCompleteTreeNodes) (Medium) <br>
 [114. Flatten Binary Tree to Linked List](https://github.com/yankunm/LeetCode/tree/main/Tree/114.FlattenBinaryTreetoLinkedList) (Medium) <br>
 TODO: 95. Unique Binary Search Trees II <br>
@@ -192,14 +192,14 @@ TODO: 100. Same Tree <br>
 TODO: 94. Binary Tree Inorder Traversal <br>
 TODO: 426. Convert Binary Search Tree to Sorted Doubly Linked List <br>
 TODO: 700. Search in a Binary Search Tree <br>
-### Path in a Tree
-### Serialization & Hashing
-### Tree & Sequence
-### LCA
-### N-ary Tree
-### Re-root
-### Segment Tree
-### Binary Index Tree
+// ### Path in a Tree
+// ### Serialization & Hashing
+//### Tree & Sequence
+// ### LCA
+// ### N-ary Tree
+// ### Re-root
+// ### Segment Tree
+// ### Binary Index Tree
 
 ## Backtracking***
 [78. Subsets](https://github.com/yankunm/LeetCode/tree/main/Backtracking/78.Subsets) (Medium) <br>
