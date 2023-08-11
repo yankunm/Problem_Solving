@@ -175,7 +175,7 @@ TODO: 841. Keys and Rooms <br>
 ### Hungarian Algorithm
 -->
 
-## Dynamic Programming**
+## [Dynamic Programming](https://github.com/yankunm/LeetCode/tree/main/src/DynamicProgramming)
 (8/10/2023) [78. Subsets](https://github.com/yankunm/LeetCode/tree/main/src/DynamicProgramming/78.Subsets) (Medium) <br>
 (8/10/2023) [139. Word Break](https://github.com/yankunm/LeetCode/tree/main/src/DynamicProgramming/139.WordBreak) (Medium) <br>
 TODO: 22. Generate Parentheses <br>
