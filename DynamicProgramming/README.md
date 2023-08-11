@@ -1,6 +1,6 @@
 # Dynamic Programming
 
-Dynamic Programing, AKA Search + Memoization, is an optimization technique used on search problems.
+Dynamic Programing, AKA Search + Memoization, is an optimization technique used on search problems. Search problems are DPs fathers.
 
 ## Search
 
@@ -55,3 +55,12 @@ Note: When analyzing your **search space**, always draw a **Tree**. **the tree w
 **MOST IMPORTANT: Always define your STATE well (the STATE is used to describe your subproblem)**
 
 **TIP: After defining STATE, you can start thinking from a MIDDLE STATE to define your recursion.**
+
+### Bottom Up DFS
+
+1. Return STATE of subproblem
+2. Initialize memo (record calculated subproblems)
+3. Return dfs(top_level_answer_state)
+
+**Note: We use the *top_level_answer_state* as input to our dfs cause that's what we are interested in, and dfs will construct answer for that**
+
