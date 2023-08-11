@@ -60,7 +60,7 @@ Note: When analyzing your **search space**, always draw a **Tree**. **the tree w
 
 ### Bottom Up DFS
 
-1. Return STATE of subproblem
+1. Define STATE of subproblem
 2. Initialize memo (record calculated subproblems)
 3. Return dfs(*top_level_answer_state*)
 
