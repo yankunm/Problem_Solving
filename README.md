@@ -222,12 +222,13 @@ TODO: 22. Generate Parentheses <br>
 -->
 
 
-## [Recursion](https://github.com/yankunm/LeetCode/tree/main/src/Recursion)
+## [Recursion D\&C](https://github.com/yankunm/LeetCode/tree/main/src/Recursion)
 (7/23/2023) [344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/src/Recursion/344.ReverseString) (Easy) <br>
 (7/23/2023) [24. Swap Nodes in Pairs](https://github.com/yankunm/LeetCode/tree/main/src/Recursion/24.SwapNodesInPairs) (Medium) <br>
+(7/24/2023) [50. Pow(x, n)](https://github.com/yankunm/LeetCode/tree/main/src/Recursion/50.Pow) (Medium) <br>
+TODO: 912. Sort an Array <br>
 TODO: 118. Pascal's Triangle <br>
 TODO: 119. Pascal's Triangle II <br>
-TODO: 50. Pow(x, n) <br>
 TODO: 779. K-th Symbol in Grammar <br>
 TODO: 509. Fibonacci Number <br>
 TODO: 70. Climbing Stairs <br>
@@ -237,10 +238,6 @@ TODO: 70. Climbing Stairs <br>
 ### Min-Max Strategy
 ### Digit counting & finding
 -->
-
-## Divide-and-Conquer***
-TODO: 912. Sort an Array <br>
-
 
 <!---
 ## Priority Queue**
@@ -300,7 +297,7 @@ TODO: 912. Sort an Array <br>
 ### Conclusion Transfer
 ### Count Subarray by Element
 ### Sweeping Line / Diff Array
--->
+
 
 ### 2D Diff
 ### Enumeration
@@ -308,3 +305,4 @@ TODO: 912. Sort an Array <br>
 ### 2D Presum
 ### Quickselect
 ### Digital Computing
+-->
