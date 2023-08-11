@@ -195,6 +195,7 @@ TODO: 70. Climbing Stairs <br>
 TODO: 90. Subsets II <br>
 TODO: 332. Coin Change <br>
 TODO: 746. Min Cost Climbing Stairs <br>
+TODO: 96. Unique Binary Search Trees <br>
 <!---
 ### Basic Form I
 ### Basic Form II
@@ -211,7 +212,6 @@ TODO: 746. Min Cost Climbing Stairs <br>
 #### TSP
 ### Catalan
 -->
-TODO: 96. Unique Binary Search Trees <br>
 
 
 ## [Backtracking](https://github.com/yankunm/LeetCode/tree/main/src/Backtracking)
