@@ -63,10 +63,9 @@ TODO: 84. Largest Rectangle in Histogram <br>
 -->
 
 ## [Heap](https://github.com/yankunm/LeetCode/tree/main/Heap)
-[215. Kth Largest Element in an Array](https://github.com/yankunm/LeetCode/tree/main/Heap/215.KthLargestElementInAnArray) (Medium) (7/31/2023) <br>
-[23. Merge K Sorted Lists](https://github.com/yankunm/LeetCode/tree/main/Heap/23.MergeKSortedLists) (Hard) (7/31/2023) <br>
-347，253，295，767，703.
-TODO: 218. The Skyline Problem <br>
+(7/31/2023) [215. Kth Largest Element in an Array](https://github.com/yankunm/LeetCode/tree/main/Heap/215.KthLargestElementInAnArray) (Medium) <br>
+(7/31/2023) [23. Merge K Sorted Lists](https://github.com/yankunm/LeetCode/tree/main/Heap/23.MergeKSortedLists) (Hard) <br>
+347，253，295，767，703, 218 <br>
 <!---
 ### Maintain Intervals
 -->
