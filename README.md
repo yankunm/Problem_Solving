@@ -143,9 +143,9 @@ TODO: 695. Max Area of Island (Medium) <br>
 TODO: 1020. Number of Enclaves (Medium) <br>
 TODO: 1254. Number of Closed Islands (Medium) <br>
 
-### BFS
-(7/28/2023) [542. 01 Matrix](https://github.com/yankunm/LeetCode/tree/main/src/Graph/542.01Matrix) (Medium) <br>
-(7/28/2023) [127. Word Ladder](https://github.com/yankunm/LeetCode/tree/main/src/Graph/127.WordLadder) (Hard) <br>
+### [BFS](https://github.com/yankunm/LeetCode/tree/main/src/Graph/BFS)
+(7/28/2023) [542. 01 Matrix](https://github.com/yankunm/LeetCode/tree/main/src/Graph/BFS/542.01Matrix) (Medium) <br>
+(7/28/2023) [127. Word Ladder](https://github.com/yankunm/LeetCode/tree/main/src/Graph/BFS/127.WordLadder) (Hard) <br>
 TODO: 934. Shortest Bridge <br>
 TODO: 310. Minimum Height Trees <br>
 TODO: 1091. Shortest Path in Binary Matrix <br>
@@ -153,18 +153,18 @@ TODO: 994. Rotting Oranges <br>
 TODO: 863. All Nodes Distance K in Binary Tree <br>
 TODO: 317. Shortest Distance from All Buildings <br>
 
-### BestFS
-(8/4/2023) [743. Network Delay Time](https://github.com/yankunm/LeetCode/tree/main/src/Graph/743.NetworkDelayTime) (Medium) <br>
-(8/4/2023) [787. Cheapest Flights within K Stops](https://github.com/yankunm/LeetCode/tree/main/src/Graph/787.CheapestFlightsWithinKStops) (Medium) <br>
+### [BestFS](https://github.com/yankunm/LeetCode/tree/main/src/Graph/BestFS)
+(8/4/2023) [743. Network Delay Time](https://github.com/yankunm/LeetCode/tree/main/src/Graph/BestFS/743.NetworkDelayTime) (Medium) <br>
+(8/4/2023) [787. Cheapest Flights within K Stops](https://github.com/yankunm/LeetCode/tree/main/src/Graph/BestFS/787.CheapestFlightsWithinKStops) (Medium) <br>
 TODO: 264. Ugly Number II <br>
 TODO: 373. Find K Pairs with Smallest Sums <br>
 TODO: 778. Swim in Rising Water <br>
 TODO: 378. Kth Smallest Element In A Sorted Matrix <br>
 
 
-### DFS
-(8/7/2023) [200. Number of Islands](https://github.com/yankunm/LeetCode/tree/main/src/Graph/200.NuberOfIslands) (Medium) <br>
-(8/7/2023) [332.Reconstruct Itinerary](https://github.com/yankunm/LeetCode/tree/main/src/Graph/332.ReconstructItinerary) (Medium) <br>
+### [DFS](https://github.com/yankunm/LeetCode/tree/main/src/Graph/DFS)
+(8/7/2023) [200. Number of Islands](https://github.com/yankunm/LeetCode/tree/main/src/Graph/DFS/200.NuberOfIslands) (Medium) <br>
+(8/7/2023) [332.Reconstruct Itinerary](https://github.com/yankunm/LeetCode/tree/main/src/Graph/DFS/332.ReconstructItinerary) (Medium) <br>
 TODO: 133. Clone Graph <br>
 TODO: 399. Evaluate Division <br>
 TODO: 785. Is Graph Bipartite <br>
