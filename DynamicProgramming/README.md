@@ -52,6 +52,6 @@ Note: When analyzing your **search space**, always draw a **Tree**. **the tree w
 
 **Note: Every DP problem is a Shortest Path on a DAG problem**
 
-**MOST IMPORTANT: Always define your STATE well**
+**MOST IMPORTANT: Always define your STATE well (the STATE is used to describe your subproblem)**
 
-
+**TIP: After defining STATE, you can start thinking from a MIDDLE STATE to define your recursion.**
