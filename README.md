@@ -26,6 +26,9 @@ TODO: 80. Remove Duplicates From Sorted Array II <br>
 ### Two Pointers for two sequences
 -->
 
+## Sliding Window
+(8/2/2023) [560. Subarray Sum Equals K](https://github.com/yankunm/LeetCode/tree/main/src/HashMap/560.SubarraySumEqualsK) (Medium) (8/2/2023) <br>
+
 ## [Binary Search](https://github.com/yankunm/LeetCode/tree/main/src/BinarySearch)
 (7/18/2023) [33. Search in Rotated Sorted Array](https://github.com/yankunm/LeetCode/tree/main/src/BinarySearch/33.SearchInRotatedSortedArray) (Medium) <br>
 TODO: 74. Search a 2D Matrix <br>
@@ -75,8 +78,6 @@ TODO: 84. Largest Rectangle in Histogram <br>
 (8/2/2023) [138. Copy List with Random Pointer](https://github.com/yankunm/LeetCode/tree/main/src/HashMap/138.CopyListWithRandomPointer) (Medium) <br>
 (8/2/2023) [3.Longest Substring Without Repeating Characters](https://github.com/yankunm/LeetCode/tree/main/src/HashMap/3.LongestSubstringWithoutRepeatingCharacters) (Medium) <br>
 49, 340, 554, 535.
-### Sliding Window
-(8/2/2023) [560. Subarray Sum Equals K](https://github.com/yankunm/LeetCode/tree/main/src/HashMap/560.SubarraySumEqualsK) (Medium) (8/2/2023) <br>
 
 <!---
 ### Hash + Prefix
