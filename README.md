@@ -19,7 +19,7 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 TODO: 237. Delete node in a linked list <br>
 TODO: 141. Linked List cycle <br>
 ### Bottom-Up Recursion
-TODO: [206. Reverse Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList/206.ReverseLinkedList) <br>
+[206. Reverse Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList/206.ReverseLinkedList) <br>
 TODO: 92. Reverse Linked List II <br>
 TODO: 25. Reverse Nodes in k-Group <br>
 TODO: 21. Merge Two Sorted Lists <br>
