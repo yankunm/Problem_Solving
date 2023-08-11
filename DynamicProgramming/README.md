@@ -42,3 +42,9 @@ This is the magic of search problems. We defined a state ourselves using our bra
 
 ## Search + Memoization
 
+If your search space has REPEATING SUBPROBLEMS, then you can record them down in a table to make sure you don't recalculate them and waste time.
+
+Then, the TIME COMPLEXITY will depend on the NUMBER OF SUBPROBLEMS.
+
+Note: When analyzing your **search space**, always draw a **Tree**.
+
