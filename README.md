@@ -138,6 +138,10 @@ TODO: 450. Delete Node in a BST <br>
 -->
 
 ## Graph**
+TODO: 417. Pacific Atlantic Water Flow (Medium) <br>
+TODO: 695. Max Area of Island (Medium) <br>
+TODO: 1020. Number of Enclaves (Medium) <br>
+TODO: 1254. Number of Closed Islands (Medium) <br>
 
 ### BFS
 [542. 01 Matrix](https://github.com/yankunm/LeetCode/tree/main/src/Graph/542.01Matrix) (Medium) <br>
@@ -152,23 +156,20 @@ TODO: 317. Shortest Distance from All Buildings <br>
 ### BestFS
 [743. Network Delay Time](https://github.com/yankunm/LeetCode/tree/main/src/Graph/743.NetworkDelayTime) (Medium) <br>
 [787. Cheapest Flights within K Stops](https://github.com/yankunm/LeetCode/tree/main/src/Graph/787.CheapestFlightsWithinKStops) (Medium) <br>
-
-### DFS
-[200. Number of Islands](https://github.com/yankunm/LeetCode/tree/main/src/Graph/200.NuberOfIslands) (Medium) <br>
-[332.Reconstruct Itinerary](https://github.com/yankunm/LeetCode/tree/main/src/Graph/332.ReconstructItinerary) (Medium) <br>
-
-TODO: 417. Pacific Atlantic Water Flow (Medium) <br>
-TODO: 695. Max Area of Island (Medium) <br>
-TODO: 1020. Number of Enclaves (Medium) <br>
-TODO: 1254. Number of Closed Islands (Medium) <br>
 TODO: 264. Ugly Number II <br>
 TODO: 373. Find K Pairs with Smallest Sums <br>
 TODO: 778. Swim in Rising Water <br>
 TODO: 378. Kth Smallest Element In A Sorted Matrix <br>
+
+
+### DFS
+[200. Number of Islands](https://github.com/yankunm/LeetCode/tree/main/src/Graph/200.NuberOfIslands) (Medium) <br>
+[332.Reconstruct Itinerary](https://github.com/yankunm/LeetCode/tree/main/src/Graph/332.ReconstructItinerary) (Medium) <br>
 TODO: 133. Clone Graph <br>
 TODO: 399. Evaluate Division <br>
 TODO: 785. Is Graph Bipartite <br>
 TODO: 841. Keys and Rooms <br>
+
 <!---
 ### Floyd
 ### Hungarian Algorithm
