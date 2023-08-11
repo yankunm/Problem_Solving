@@ -13,6 +13,22 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
+**The 14 Patterns:** <br>
+1. Sliding Window
+2. Two Pointers or Iterators
+3. Fast and Slow Pointers
+4. Merge Intervals
+5. Cyclic Sort
+6. In-place Reversal of Linked List
+7. Tree BFS
+8. Tree DFS
+9. Two Heaps
+10. Subsets
+11. Modified Binary Search
+12. Top K Elements
+13. K-Way Merge
+14. Topological Sort
+
 **Problems for 8/11/2023:** <br>
 42. Trapping Rain Water <br>
 252. Meeting Rooms I <br>
@@ -21,8 +37,6 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 236. Lowest Common Ancestor of a Binary Tree <br>
 133. Clone Graph <br>
 785. Is Graph Bipartite <br>
-
-
 
 ## [Two Pointers](https://github.com/yankunm/LeetCode/tree/main/src/TwoPointers)
  (7/20/2023) [11. Container With Most Water](https://github.com/yankunm/LeetCode/tree/main/src/TwoPointers/11.ContainerWithMostWater) (Medium) <br>
