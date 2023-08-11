@@ -13,7 +13,7 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
-## [Two Pointers](https://github.com/yankunm/LeetCode/tree/main/TwoPointers)***
+## [Two Pointers](https://github.com/yankunm/LeetCode/tree/main/TwoPointers)
 [344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/344.ReverseString) (Easy) <br>
 [26. Remove Duplicates from Sorted Array](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/26.RemoveDuplicatesFromSortedArray) (Easy) <br>
 [283. Move Zeros](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/283.MoveZeroes) (Easy) <br>
@@ -26,7 +26,7 @@ TODO: 80. Remove Duplicates From Sorted Array II <br>
 ### Two Pointers for two sequences
 -->
 
-## [Binary Search](https://github.com/yankunm/LeetCode/tree/main/BinarySearch)***
+## [Binary Search](https://github.com/yankunm/LeetCode/tree/main/BinarySearch)
 [33. Search in Rotated Sorted Array](https://github.com/yankunm/LeetCode/tree/main/BinarySearch/33.SearchInRotatedSortedArray)(Medium) <br>
 TODO: 74. Search a 2D Matrix <br>
 <!---
@@ -35,7 +35,7 @@ TODO: 74. Search a 2D Matrix <br>
 #### Find K-th Element
 -->
 
-## [Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList)***
+## [Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList)
 [876. Middle Of The Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList/876.MiddleOfTheLinkedList) (Easy) <br>
 [206. Reverse Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList/206.ReverseLinkedList) (Medium) <br>
 TODO: 237. Delete node in a linked list <br>
@@ -44,7 +44,7 @@ TODO: 92. Reverse Linked List II <br>
 TODO: 25. Reverse Nodes in k-Group <br>
 TODO: 21. Merge Two Sorted Lists <br>
 
-## [Stack](https://github.com/yankunm/LeetCode/tree/main/Stack)**
+## [Stack](https://github.com/yankunm/LeetCode/tree/main/Stack)
 [20. Valid Parentheses](https://github.com/yankunm/LeetCode/tree/main/Stack/20.ValidParentheses) (Easy)
 <!---
 ### Monotonic Stack: next greater / smaller
@@ -62,7 +62,7 @@ TODO: 84. Largest Rectangle in Histogram <br>
 ### parse expression
 -->
 
-## Heap**
+## Heap
 [215. Kth Largest Element in an Array](https://github.com/yankunm/LeetCode/tree/main/Heap/215.KthLargestElementInAnArray) (Medium) <br>
 [23. Merge K Sorted Lists](https://github.com/yankunm/LeetCode/tree/main/Heap/23.MergeKSortedLists) (Hard) <br>
 347，253，295，767，703.
