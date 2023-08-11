@@ -27,7 +27,7 @@ TODO: 80. Remove Duplicates From Sorted Array II <br>
 -->
 
 ## [Binary Search](https://github.com/yankunm/LeetCode/tree/main/BinarySearch)
-[33. Search in Rotated Sorted Array](https://github.com/yankunm/LeetCode/tree/main/BinarySearch/33.SearchInRotatedSortedArray)(Medium) <br>
+(7/18/2023) [33. Search in Rotated Sorted Array](https://github.com/yankunm/LeetCode/tree/main/BinarySearch/33.SearchInRotatedSortedArray) (Medium) <br>
 TODO: 74. Search a 2D Matrix <br>
 <!---
 ### Binary Processing
