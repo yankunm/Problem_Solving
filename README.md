@@ -111,12 +111,12 @@ TODO: 700. Search in a Binary Search Tree <br>
 
 ## BFS***
 TODO: 101. Symmetric Tree <br>
-[111. Minimum Depth of a Binary Tree](https://github.com/yankunm/LeetCode/tree/main/src/BFS/111.MinimumDepthOfBinaryTree) (Easy) <br>
-[102. Binary Tree Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/src/BFS/102.BinaryTreeLevelOrderTraversal) (Medium)<br>
-[103. Binary Tree Zigzag Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/src/BFS/103.BinaryTreeZigzagLevelOrderTraversal) (Medium) <br>
-[104. Maximum Depth of Binary Tree](https://github.com/yankunm/LeetCode/tree/main/src/BFS/104.MaximumDepthOfBinaryTree) (Medium) <br>
-[515. Find Largest Value in Each Tree Row](https://github.com/yankunm/LeetCode/tree/main/src/BFS/515.FindLargestValueInEachTreeRow) (Medium) <br>
-[429. N-ary Tree Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/src/BFS/429.N-aryTreeLevelOrderTraversal) (Medium) <br>
+(7/24/2023) [111. Minimum Depth of a Binary Tree](https://github.com/yankunm/LeetCode/tree/main/src/BFS/111.MinimumDepthOfBinaryTree) (Easy) <br>
+(7/24/2023) [102. Binary Tree Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/src/BFS/102.BinaryTreeLevelOrderTraversal) (Medium)<br>
+(7/24/2023) [515. Find Largest Value in Each Tree Row](https://github.com/yankunm/LeetCode/tree/main/src/BFS/515.FindLargestValueInEachTreeRow) (Medium) <br>
+(7/26/2023) [103. Binary Tree Zigzag Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/src/BFS/103.BinaryTreeZigzagLevelOrderTraversal) (Medium) <br>
+(7/26/2023) [104. Maximum Depth of Binary Tree](https://github.com/yankunm/LeetCode/tree/main/src/BFS/104.MaximumDepthOfBinaryTree) (Medium) <br>
+(7/26/2023) [429. N-ary Tree Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/src/BFS/429.N-aryTreeLevelOrderTraversal) (Medium) <br>
 <!---
 ### Multi State
 ### Topological sort
