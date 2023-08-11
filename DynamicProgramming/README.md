@@ -2,6 +2,8 @@
 
 Dynamic Programing, AKA Search + Memoization, is an optimization technique used on search problems. Search problems are DPs fathers.
 
+Dynamic Programming: Use subproblem *answers* to construct the current *solution*
+
 ## Search
 
 When a given problem is composed of multiple subproblems, we can keep on breaking down the problem and ultimately CONSTRUCT the BIGGER problem using all the SUB-PROBLEMS.
@@ -70,11 +72,16 @@ Note: When analyzing your **search space**, always draw a **Tree**. **the tree w
 3. Transition Rule (Ask subproblem answer, use that to construct *current answer*)
 4. Store *current answer* for parent problem / user
 
-ex. Work Break Problem
 
 For Array DP Problems, It's usually one of two categories: <br>
 1. **1D Problem**: index i or problem length --> dp[3] represents answer for arr[0,3)
 2. **2D Problem**: indexes i, j --> dp[3, 5] represents answer for arr[3, 5)
 
 **TIP: Consider if 1D is possible first, if not then increase dimensions.**
+
+ex. Work Break Problem
+
+**State:** Whether we can break s[0, i) into a word in wordDict
+
+
 
