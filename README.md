@@ -14,6 +14,14 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
 ## Dynamic Programming**
+[139. Word Break]() (Medium) <br>
+TODO: 22. Generate Parentheses <br>
+TODO: 35. Maximum Subarray <br>
+TODO: 70. Climbing Stairs <br>
+TODO: 90. Subsets II <br>
+TODO: 332. Coin Change <br>
+TODO: 746. Min Cost Climbing Stairs <br>
+
 ### Basic Form I
 ### Basic Form II
 ### Maze Form
