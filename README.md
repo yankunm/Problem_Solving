@@ -19,6 +19,7 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 [283. Move Zeros](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/283.MoveZeroes) (Easy) <br>
 [1047. Remove All Adjacent Duplicates In String](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/1047.RemoveAllAdjacentDuplicatesInString) (Easy) <br>
 [11. Container With Most Water](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/11.ContainerWithMostWater) (Medium) <br>
+[1047.RemoveAllAdjacentDuplicatesInString](https://github.com/yankunm/LeetCode/tree/main/TwoPointers/1047.RemoveAllAdjacentDuplicatesInString) (Medium) (7/22/2023) <br>
 TODO: 42. Trapping Rain Water <br>
 TODO: 80. Remove Duplicates From Sorted Array II <br>
 <!---
