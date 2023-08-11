@@ -1,5 +1,7 @@
 # Dynamic Programming
 
+Dynamic Programing, AKA Search + Memoization, is an optimization technique used on search problems.
+
 ## Search
 
 When a given problem is composed of multiple subproblems, we can keep on breaking down the problem and ultimately CONSTRUCT the BIGGER problem using all the SUB-PROBLEMS.
