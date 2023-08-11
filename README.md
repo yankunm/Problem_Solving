@@ -71,13 +71,12 @@ TODO: 218. The Skyline Problem <br>
 ### Maintain Intervals
 -->
 
-
-## Hash Table***
-[1. Two Sum](https://github.com/yankunm/LeetCode/tree/main/HashMap/1.TwoSum) (Easy) <br>
-[138. Copy List with Random Pointer](https://github.com/yankunm/LeetCode/tree/main/HashMap/138.CopyListWithRandomPointer) (Medium) <br>
+## [Hash Table](https://github.com/yankunm/LeetCode/tree/main/HashMap)
+[1. Two Sum](https://github.com/yankunm/LeetCode/tree/main/HashMap/1.TwoSum) (Easy) (8/2/2023) <br>
+[138. Copy List with Random Pointer](https://github.com/yankunm/LeetCode/tree/main/HashMap/138.CopyListWithRandomPointer) (Medium) (8/2/2023) <br>
 3, 49, 340, 554, 535.
 ### Sliding Window
-[560. Subarray Sum Equals K](https://github.com/yankunm/LeetCode/tree/main/HashMap/560.SubarraySumEqualsK) (Medium) <br>
+[560. Subarray Sum Equals K](https://github.com/yankunm/LeetCode/tree/main/HashMap/560.SubarraySumEqualsK) (Medium) (8/2/2023) <br>
 <!---
 ### Hash + Prefix
 -->
