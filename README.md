@@ -13,6 +13,18 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
+## [Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList)***
+### Two Pointers
+[876. Middle Of The Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList/876.MiddleOfTheLinkedList) (Easy) <br>
+TODO: 237. Delete node in a linked list <br>
+TODO: 141. Linked List cycle <br>
+### Bottom-Up Recursion
+TODO: [206. Reverse Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList/206.ReverseLinkedList) <br>
+TODO: 92. Reverse Linked List II <br>
+TODO: 25. Reverse Nodes in k-Group <br>
+TODO: 21. Merge Two Sorted Lists <br>
+
+
 ## Dynamic Programming**
 [78. Subsets](https://github.com/yankunm/LeetCode/tree/main/DynamicProgramming/78.Subsets) (Medium) <br>
 [139. Word Break](https://github.com/yankunm/LeetCode/tree/main/DynamicProgramming/139.WordBreak) (Medium) <br>
@@ -138,19 +150,6 @@ TODO: 84. Largest Rectangle in Histogram <br>
 ### form smallest sequence
 ### parse expression
 
-## [Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList)***
-
-### Two Pointers
-
-[876. Middle Of The Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList/876.MiddleOfTheLinkedList) (Easy) <br>
-TODO: 237. Delete node in a linked list <br>
-TODO: 141. Linked List cycle <br>
-
-### Bottom-Up Recursion
-TODO: [206. Reverse Linked List](https://github.com/yankunm/LeetCode/tree/main/LinkedList/206.ReverseLinkedList) <br>
-TODO: 92. Reverse Linked List II <br>
-TODO: 25. Reverse Nodes in k-Group <br>
-TODO: 21. Merge Two Sorted Lists <br>
 
 ## Recursion (Basics)***
 [344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/Recursion/344.ReverseString) (Easy) <br>
