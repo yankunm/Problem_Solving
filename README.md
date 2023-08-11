@@ -176,8 +176,8 @@ TODO: 841. Keys and Rooms <br>
 -->
 
 ## Dynamic Programming**
-[78. Subsets](https://github.com/yankunm/LeetCode/tree/main/src/DynamicProgramming/78.Subsets) (Medium) <br>
-[139. Word Break](https://github.com/yankunm/LeetCode/tree/main/src/DynamicProgramming/139.WordBreak) (Medium) <br>
+(8/10/2023) [78. Subsets](https://github.com/yankunm/LeetCode/tree/main/src/DynamicProgramming/78.Subsets) (Medium) <br>
+(8/10/2023) [139. Word Break](https://github.com/yankunm/LeetCode/tree/main/src/DynamicProgramming/139.WordBreak) (Medium) <br>
 TODO: 22. Generate Parentheses <br>
 TODO: 35. Maximum Subarray <br>
 TODO: 70. Climbing Stairs <br>
@@ -204,7 +204,7 @@ TODO: 96. Unique Binary Search Trees <br>
 
 
 ## Backtracking***
-[78. Subsets](https://github.com/yankunm/LeetCode/tree/main/src/Backtracking/78.Subsets) (Medium) <br>
+TODO: 78. Subsets <br>
 TODO: 77. Combinations <br>
 TODO: 46. Permutations <br>
 TODO: 17. Letter Combinations of a Phone Number <br>
@@ -223,8 +223,8 @@ TODO: 22. Generate Parentheses <br>
 
 
 ## Recursion (Basics)***
-[344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/src/Recursion/344.ReverseString) (Easy) <br>
-[24. Swap Nodes in Pairs](https://github.com/yankunm/LeetCode/tree/main/src/Recursion/24.SwapNodesInPairs) (Medium) <br>
+(7/23/2023) [344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/src/Recursion/344.ReverseString) (Easy) <br>
+(7/23/2023) [24. Swap Nodes in Pairs](https://github.com/yankunm/LeetCode/tree/main/src/Recursion/24.SwapNodesInPairs) (Medium) <br>
 TODO: 118. Pascal's Triangle <br>
 TODO: 119. Pascal's Triangle II <br>
 TODO: 50. Pow(x, n) <br>
@@ -240,9 +240,6 @@ TODO: 70. Climbing Stairs <br>
 
 ## Divide-and-Conquer***
 TODO: 912. Sort an Array <br>
-
-
-
 
 
 <!---
