@@ -86,12 +86,12 @@ TODO: 84. Largest Rectangle in Histogram <br>
 ## [Tree](https://github.com/yankunm/LeetCode/tree/main/src/Tree)
 (7/16/2023) [270. Closest Binary Search Tree Value](https://github.com/yankunm/LeetCode/tree/main/src/Tree/270.%20Closest%20Binary%20Search%20Tree%20Value) (Easy) <br>
 (7/16/2023) [110. Balanced Binary Tree](https://github.com/yankunm/LeetCode/tree/main/src/Tree/110.BalancedBinaryTree) (Easy) <br>
-(7/18/2023) [257. Binary Tree Paths](https://github.com/yankunm/LeetCode/tree/main/src/Tree/257.BinaryTreePaths) (Easy) <br>
+(7/16/2023) [222. Count Complete Tree Nodes](https://github.com/yankunm/LeetCode/tree/main/src/Tree/222.CountCompleteTreeNodes) (Medium) <br>
+(7/16/2023) [114. Flatten Binary Tree to Linked List](https://github.com/yankunm/LeetCode/tree/main/src/Tree/114.FlattenBinaryTreetoLinkedList) (Medium) <br>
 (7/17/2023) [938. Range Sum of BST](https://github.com/yankunm/LeetCode/tree/main/src/Tree/938.RangeSumOfBST) (Easy) <br>
-[222. Count Complete Tree Nodes](https://github.com/yankunm/LeetCode/tree/main/src/Tree/222.CountCompleteTreeNodes) (Medium) <br>
-[114. Flatten Binary Tree to Linked List](https://github.com/yankunm/LeetCode/tree/main/src/Tree/114.FlattenBinaryTreetoLinkedList) (Medium) <br>
-[199. Binary Tree Right Side View](https://github.com/yankunm/LeetCode/tree/main/src/Tree/199.BinaryTreeRightSideView) (Medium) <br>
-[257.Binary Tree Paths](https://github.com/yankunm/LeetCode/tree/main/src/Tree/257.BinaryTreePaths) (Medium) <br>
+(7/18/2023) [257. Binary Tree Paths](https://github.com/yankunm/LeetCode/tree/main/src/Tree/257.BinaryTreePaths) (Easy) <br>
+(7/18/2023) [199. Binary Tree Right Side View](https://github.com/yankunm/LeetCode/tree/main/src/Tree/199.BinaryTreeRightSideView) (Medium) <br>
+(7/18/2023) [257.Binary Tree Paths](https://github.com/yankunm/LeetCode/tree/main/src/Tree/257.BinaryTreePaths) (Medium) <br>
 TODO: 95. Unique Binary Search Trees II <br>
 TODO: 98. Validate Binary Search Tree <br>
 TODO: 100. Same Tree <br>
