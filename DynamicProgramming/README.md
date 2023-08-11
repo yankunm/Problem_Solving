@@ -32,6 +32,8 @@ After drawing out search space, I would like my base case to be once I am at a l
 
 For this, I would need a **traverser/index/level** to keep track of at *which level of the search space tree* am I in. **Lets call that k**
 
+**Note: You have to know index k is that INDEX OF WHAT (of input array? of a collection of data?)**
+
 Therefore, for each subproblem I have a current state consisting of **the current subset appearance** and the **index for that state**.
 
 This is the magic of search problems. We defined a state ourselves using our brain, formed a tree, and traversed that tree.
