@@ -26,8 +26,8 @@ TODO: 80. Remove Duplicates From Sorted Array II <br>
 ### Two Pointers for two sequences
 -->
 
-## Sliding Window
-(8/2/2023) [560. Subarray Sum Equals K](https://github.com/yankunm/LeetCode/tree/main/src/HashMap/560.SubarraySumEqualsK) (Medium) (8/2/2023) <br>
+## [Sliding Window](https://github.com/yankunm/LeetCode/tree/main/src/SlidingWindow) 
+TODO: 560. Subarray Sum Equals K <br>
 
 ## [Binary Search](https://github.com/yankunm/LeetCode/tree/main/src/BinarySearch)
 (7/18/2023) [33. Search in Rotated Sorted Array](https://github.com/yankunm/LeetCode/tree/main/src/BinarySearch/33.SearchInRotatedSortedArray) (Medium) <br>
@@ -109,12 +109,12 @@ TODO: 700. Search in a Binary Search Tree <br>
 
 ## BFS***
 TODO: 101. Symmetric Tree <br>
-[111. Minimum Depth of a Binary Tree](https://github.com/yankunm/LeetCode/tree/main/BFS/111.MinimumDepthOfBinaryTree) (Easy) <br>
-[102. Binary Tree Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/BFS/102.BinaryTreeLevelOrderTraversal) (Medium)<br>
-[103. Binary Tree Zigzag Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/BFS/103.BinaryTreeZigzagLevelOrderTraversal) (Medium) <br>
-[104. Maximum Depth of Binary Tree](https://github.com/yankunm/LeetCode/tree/main/BFS/104.MaximumDepthOfBinaryTree) (Medium) <br>
-[515. Find Largest Value in Each Tree Row](https://github.com/yankunm/LeetCode/tree/main/BFS/515.FindLargestValueInEachTreeRow) (Medium) <br>
-[429. N-ary Tree Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/BFS/429.N-aryTreeLevelOrderTraversal) (Medium) <br>
+[111. Minimum Depth of a Binary Tree](https://github.com/yankunm/LeetCode/tree/main/src/BFS/111.MinimumDepthOfBinaryTree) (Easy) <br>
+[102. Binary Tree Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/src/BFS/102.BinaryTreeLevelOrderTraversal) (Medium)<br>
+[103. Binary Tree Zigzag Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/src/BFS/103.BinaryTreeZigzagLevelOrderTraversal) (Medium) <br>
+[104. Maximum Depth of Binary Tree](https://github.com/yankunm/LeetCode/tree/main/src/BFS/104.MaximumDepthOfBinaryTree) (Medium) <br>
+[515. Find Largest Value in Each Tree Row](https://github.com/yankunm/LeetCode/tree/main/src/BFS/515.FindLargestValueInEachTreeRow) (Medium) <br>
+[429. N-ary Tree Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/src/BFS/429.N-aryTreeLevelOrderTraversal) (Medium) <br>
 <!---
 ### Multi State
 ### Topological sort
@@ -128,7 +128,7 @@ TODO: 110. Balanced Binary Tree <br>
 TODO: 113. Path Sum II <br>
 TODO: 236. Lowest Common Ancestor of a Binary Tree <br>
 TODO: 450. Delete Node in a BST <br>
-[508. Most Frequent Subtree Sum](https://github.com/yankunm/LeetCode/tree/main/DFS/508.MostFrequentSubtreeSum) (Medium) <br>
+[508. Most Frequent Subtree Sum](https://github.com/yankunm/LeetCode/tree/main/src/DFS/508.MostFrequentSubtreeSum) (Medium) <br>
 <!---
 ### Search in an array
 ### Memorization
@@ -136,11 +136,11 @@ TODO: 450. Delete Node in a BST <br>
 -->
 
 ## Graph**
-[542. 01 Matrix](https://github.com/yankunm/LeetCode/tree/main/Graph/542.01Matrix) (Medium) <br>
-[200. Number of Islands](https://github.com/yankunm/LeetCode/tree/main/Graph/200.NuberOfIslands) (Medium) <br>
-[743. Network Delay Time](https://github.com/yankunm/LeetCode/tree/main/Graph/743.NetworkDelayTime) (Medium) <br>
-[127. Word Ladder](https://github.com/yankunm/LeetCode/tree/main/Graph/127.WordLadder) (Hard) <br>
-[787. Cheapest Flights within K Stops](https://github.com/yankunm/LeetCode/tree/main/Graph/787.CheapestFlightsWithinKStops) (Medium) <br>
+[542. 01 Matrix](https://github.com/yankunm/LeetCode/tree/main/src/Graph/542.01Matrix) (Medium) <br>
+[200. Number of Islands](https://github.com/yankunm/LeetCode/tree/main/src/Graph/200.NuberOfIslands) (Medium) <br>
+[743. Network Delay Time](https://github.com/yankunm/LeetCode/tree/main/src/Graph/743.NetworkDelayTime) (Medium) <br>
+[127. Word Ladder](https://github.com/yankunm/LeetCode/tree/main/src/Graph/127.WordLadder) (Hard) <br>
+[787. Cheapest Flights within K Stops](https://github.com/yankunm/LeetCode/tree/main/src/Graph/787.CheapestFlightsWithinKStops) (Medium) <br>
 TODO: 934. Shortest Bridge <br>
 TODO: 310. Minimum Height Trees <br>
 TODO: 1091. Shortest Path in Binary Matrix <br>
@@ -165,8 +165,8 @@ TODO: 841. Keys and Rooms <br>
 -->
 
 ## Dynamic Programming**
-[78. Subsets](https://github.com/yankunm/LeetCode/tree/main/DynamicProgramming/78.Subsets) (Medium) <br>
-[139. Word Break](https://github.com/yankunm/LeetCode/tree/main/DynamicProgramming/139.WordBreak) (Medium) <br>
+[78. Subsets](https://github.com/yankunm/LeetCode/tree/main/src/DynamicProgramming/78.Subsets) (Medium) <br>
+[139. Word Break](https://github.com/yankunm/LeetCode/tree/main/src/DynamicProgramming/139.WordBreak) (Medium) <br>
 TODO: 22. Generate Parentheses <br>
 TODO: 35. Maximum Subarray <br>
 TODO: 70. Climbing Stairs <br>
@@ -193,7 +193,7 @@ TODO: 96. Unique Binary Search Trees <br>
 
 
 ## Backtracking***
-[78. Subsets](https://github.com/yankunm/LeetCode/tree/main/Backtracking/78.Subsets) (Medium) <br>
+[78. Subsets](https://github.com/yankunm/LeetCode/tree/main/src/Backtracking/78.Subsets) (Medium) <br>
 TODO: 77. Combinations <br>
 TODO: 46. Permutations <br>
 TODO: 17. Letter Combinations of a Phone Number <br>
@@ -212,8 +212,8 @@ TODO: 22. Generate Parentheses <br>
 
 
 ## Recursion (Basics)***
-[344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/Recursion/344.ReverseString) (Easy) <br>
-[24. Swap Nodes in Pairs](https://github.com/yankunm/LeetCode/tree/main/Recursion/24.SwapNodesInPairs) (Medium) <br>
+[344. Reverse String](https://github.com/yankunm/LeetCode/tree/main/src/Recursion/344.ReverseString) (Easy) <br>
+[24. Swap Nodes in Pairs](https://github.com/yankunm/LeetCode/tree/main/src/Recursion/24.SwapNodesInPairs) (Medium) <br>
 TODO: 118. Pascal's Triangle <br>
 TODO: 119. Pascal's Triangle II <br>
 TODO: 50. Pow(x, n) <br>
