@@ -13,6 +13,17 @@ This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -
 
 *Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
+**Problems for 8/11/2023:** <br>
+42. Trapping Rain Water <br>
+252. Meeting Rooms I <br>
+253. Meeting Rooms II <br>
+450. Delete Node in a BST <br>
+236. Lowest Common Ancestor of a Binary Tree <br>
+133. Clone Graph <br>
+785. Is Graph Bipartite <br>
+
+
+
 ## [Two Pointers](https://github.com/yankunm/LeetCode/tree/main/src/TwoPointers)
  (7/20/2023) [11. Container With Most Water](https://github.com/yankunm/LeetCode/tree/main/src/TwoPointers/11.ContainerWithMostWater) (Medium) <br>
  (7/20/2023) [26. Remove Duplicates from Sorted Array](https://github.com/yankunm/LeetCode/tree/main/src/TwoPointers/26.RemoveDuplicatesFromSortedArray) (Easy)<br>
