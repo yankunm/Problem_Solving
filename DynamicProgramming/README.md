@@ -46,5 +46,11 @@ If your search space has REPEATING SUBPROBLEMS, then you can record them down in
 
 Then, the TIME COMPLEXITY will depend on the NUMBER OF SUBPROBLEMS.
 
-Note: When analyzing your **search space**, always draw a **Tree**.
+Note: When analyzing your **search space**, always draw a **Tree**. **the tree will not be 2^n (we are kicking off branches)**
+
+**Note: Every DP can be written as Bottom-Up DFS**
+
+**Note: Every DP problem is a Shortest Path on a DAG problem**
+
+
 
