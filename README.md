@@ -118,12 +118,13 @@ TODO: 84. Largest Rectangle in Histogram <br>
 (7/18/2023) [199. Binary Tree Right Side View](https://github.com/yankunm/LeetCode/tree/main/src/Tree/199.BinaryTreeRightSideView) (Medium) <br>
 (7/18/2023) [257.Binary Tree Paths](https://github.com/yankunm/LeetCode/tree/main/src/Tree/257.BinaryTreePaths) (Medium) <br>
 (8/12/2023) [450. Delete Node In A BST](https://github.com/yankunm/LeetCode/tree/main/src/Tree/450.DeleteNodeInABST) (Medium) <br>
+(8/12/2023) [700. Search in a Binary Search Tree](https://github.com/yankunm/LeetCode/tree/main/src/Tree/700.SearchInABinarySearchTree) (Easy) <br>
 TODO: 95. Unique Binary Search Trees II <br>
 TODO: 98. Validate Binary Search Tree <br>
 TODO: 100. Same Tree <br>
 TODO: 94. Binary Tree Inorder Traversal <br>
 TODO: 426. Convert Binary Search Tree to Sorted Doubly Linked List <br>
-TODO: 700. Search in a Binary Search Tree <br>
+
 <!---
 ### Path in a Tree
 ### Serialization & Hashing
