@@ -53,9 +53,9 @@ For all nodes N: <br>
 
 For a BST, the Set *S* must be totally ordered under a *binary relation r*. All elements of S exhibit antisymmetry, transitivity, and totality.
 
-**Antisymmetry**: x <= y AND y <= x IMPLIES x=y
-**Transitivity**: x<y AND y<z IMPLIES x<z
-**Totality**: In the set, there's only either x<y \OR x>y \OR x = y
+**Antisymmetry**: x <= y AND y <= x IMPLIES x=y <br>
+**Transitivity**: x<y AND y<z IMPLIES x<z <br>
+**Totality**: In the set, there's only either x<y \OR x>y \OR x = y <br>
 
 
 **The only reason why we would use binary search trees over hash tables is that it maintains order**.
