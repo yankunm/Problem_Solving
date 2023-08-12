@@ -142,7 +142,7 @@ TODO: 700. Search in a Binary Search Tree <br>
 (7/26/2023) [103. Binary Tree Zigzag Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/src/Tree/BFS/103.BinaryTreeZigzagLevelOrderTraversal) (Medium) <br>
 (7/26/2023) [104. Maximum Depth of Binary Tree](https://github.com/yankunm/LeetCode/tree/main/src/Tree/BFS/104.MaximumDepthOfBinaryTree) (Medium) <br>
 (7/26/2023) [429. N-ary Tree Level Order Traversal](https://github.com/yankunm/LeetCode/tree/main/src/Tree/BFS/429.N-aryTreeLevelOrderTraversal) (Medium) <br>
-TODO: 101. Symmetric Tree <br>
+(7/26/2023) [101. Symmetric Tree](https://github.com/yankunm/LeetCode/tree/main/src/Tree/BFS/101.SymmetricTree) (Medium) <br>
 <!---
 ### Multi State
 ### Topological sort
