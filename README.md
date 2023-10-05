@@ -1,6 +1,6 @@
 # LeetCode -- Yankun (Alex) Meng
 
-This is a recording of my Computer Science Problem Solving (Leetcode) Journey. -- Alex Meng 7/16/2023
+
 
 <img src="https://github.com/yankunm/LeetCode/assets/91627484/2228c6a0-fe50-4149-ab2b-71960133983b" width="700"/>
 
