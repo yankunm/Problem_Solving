@@ -2,7 +2,7 @@
 
 <img src="https://github.com/yankunm/LeetCode/assets/91627484/2228c6a0-fe50-4149-ab2b-71960133983b" width="700"/>
 
-**Problem Solving Strategy:** <br>
+### Problem Solving Strategy: <br>
 1. Read carefully and model the problem, Ask Questions <br>
 2. Build Intuition through visualizing examples <br>
 3. Write out high level idea / Pseudocode <br>
