@@ -9,6 +9,18 @@
 4. Implement in actual code <br>
 5. Analyze your algorithm and seek improvement (time, memory, code quality) <br>
 
+### Top 10 Problem Types Ranked:
+1. Recursion / Backtracking (39, 40, 78, 90, 46, 47)
+2. Graph Traversal, BFS, DFS (133, 127, 490, 210, 269)
+3. Binary Tree (94, 236, 297, 102)
+4. Binary Search (34, 162, 69)
+5. Hash Table, Queue/Stack, Heap (242, 133, 127, 155, 225, 215, 23)
+6. Linked Lists (237, 92, 876, 143)
+7. Two Pointers / Sliding Window (239, 3, 76)
+8. Sorting/Questions that involve sorting as a trick (148)
+9. Real Life Implementations (146, 1066, 490)
+10. Dynamic Programming (know concepts)
+
 ### The 14 Patterns:
 1. [Sliding Window](https://leetcode.com/discuss/study-guide/1773891/Sliding-Window-Technique-and-Question-Bank)
 2. Two Pointers or Iterators
