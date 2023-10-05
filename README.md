@@ -1,9 +1,8 @@
 # LeetCode -- Yankun (Alex) Meng
 
-
 <img src="https://github.com/yankunm/LeetCode/assets/91627484/2228c6a0-fe50-4149-ab2b-71960133983b" width="700"/>
 
-**Problem Solving:** <br>
+**Problem Solving Strategy:** <br>
 1. Read carefully and model the problem, Ask Questions <br>
 2. Build Intuition through visualizing examples <br>
 3. Write out high level idea / Pseudocode <br>
@@ -26,14 +25,9 @@
 13. K-Way Merge
 14. Topological Sort
 
-**Problems for 8/11/2023:** <br>
-42. Trapping Rain Water <br>
-252. Meeting Rooms I <br>
-253. Meeting Rooms II <br>
-450. Delete Node in a BST <br>
-236. Lowest Common Ancestor of a Binary Tree <br>
-133. Clone Graph <br>
-785. Is Graph Bipartite <br>
+Problem Format:
+
+(Date) \[Question Title\] (level) \<br\>
 
 ## [Two Pointers](https://github.com/yankunm/LeetCode/tree/main/src/TwoPointers)
  (7/20/2023) [11. Container With Most Water](https://github.com/yankunm/LeetCode/tree/main/src/TwoPointers/11.ContainerWithMostWater) (Medium) <br>
