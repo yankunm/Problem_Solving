@@ -1,6 +1,6 @@
 # Java Tips and Tricks
 
-## HashCode() and Equals() -- 9/10/2023
+## HashCode() and Equals()
 
 * Shallow Comparison: == (compare memory address)
 * Deep Comparison: .equals (by default memory address, but customizable)
