@@ -1,7 +1,6 @@
 # LeetCode -- Yankun (Alex) Meng
 
 
-
 <img src="https://github.com/yankunm/LeetCode/assets/91627484/2228c6a0-fe50-4149-ab2b-71960133983b" width="700"/>
 
 **Problem Solving:** <br>
@@ -10,8 +9,6 @@
 3. Write out high level idea / Pseudocode <br>
 4. Implement in actual code <br>
 5. Analyze your algorithm and seek improvement (time, memory, code quality) <br>
-
-*Note: When you detect a moment while you are coding that something is "mushy", STOP and THINK with an example!!*
 
 **The 14 Patterns:**
 1. [Sliding Window](https://leetcode.com/discuss/study-guide/1773891/Sliding-Window-Technique-and-Question-Bank)
