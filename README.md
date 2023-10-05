@@ -9,7 +9,7 @@
 4. Implement in actual code <br>
 5. Analyze your algorithm and seek improvement (time, memory, code quality) <br>
 
-**The 14 Patterns:**
+### The 14 Patterns:
 1. [Sliding Window](https://leetcode.com/discuss/study-guide/1773891/Sliding-Window-Technique-and-Question-Bank)
 2. Two Pointers or Iterators
 3. Fast and Slow Pointers
@@ -25,7 +25,7 @@
 13. K-Way Merge
 14. Topological Sort
 
-Problem Format:
+### Problem Record Format:
 
 (Date) \[Question Title\] (level) \<br\>
 
