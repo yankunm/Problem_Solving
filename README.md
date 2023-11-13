@@ -1,4 +1,4 @@
-# LeetCode -- Yankun (Alex) Meng
+# Data Structures and Algorithms -- Yankun (Alex) Meng
 
 <img src="https://github.com/yankunm/LeetCode/assets/91627484/2228c6a0-fe50-4149-ab2b-71960133983b" width="700"/>
 
